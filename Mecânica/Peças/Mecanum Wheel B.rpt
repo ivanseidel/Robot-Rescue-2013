@@ -1,0 +1,74 @@
+*****************************************************************
+      SolidWorks Corporation - Relatório de status do Processador de IGES
+*****************************************************************
+=================================================================
+Informações gerais
+=================================================================
+Enviando ID de produto do sistema : Mecanum Wheel Mirrored B.SLDASM
+Recebendo ID de produto do sistema : Mecanum Wheel Mirrored B.SLDASM
+Nome do arquivo                    : C:\Documents and Settings\Kurtis\Desktop\Mecanum Wheel Mirrored B.IGS
+Enviando sistema               : SolidWorks 2005 by SolidWorks Corporation
+Versão do pré-processador         : SolidWorks 2005 by SolidWorks Corporation
+Data de criação do arquivo           : 100208.105440
+Data de criação do modelo           : 100208.105440
+Unidades                        : IN
+Escala de espaço do modelo            : 1
+Autor                       : Kurtis
+Organização                 : 
+
+
+=================================================================
+Informações de processamento da entidade
+=================================================================
+
+
+=================================================================
+Análise de precisão do arquivo IGES:
+=================================================================
+  Número mais prevalente de dígitos significativos:               9
+  Número mais alto de dígitos significativos:                     10
+  Número médio de dígitos significativos:                6.31488
+  Distância máxima da origem:                          39.2492
+  Distância mínima da origem:                                0
+  Número eficaz de dígitos significativos:                   10
+
+
+=================================================================
+Resumo de entidade
+=================================================================
+-----------------------------------------------------------------
+Nome do tipo                                         Contagem convertida
+---- ----                                         ----- ---------
+100  Arc                                            144       144
+110  Line                                           665       665
+116  Point                                          171       171
+120  Surface of revolution                           69        69
+123  Direction                                      342       342
+124  Transformation matrix                          176       176
+126  Rational B-spline curve                        324       324
+128  Rational B-spline surface                      136       136
+186  Manifold Solid B-rep Object                      5         5
+190  Plane surface entity                           171       171
+308  Subfigure definition                             5         5
+314  Color definition                                 4         4
+408  Singular subfigure instance                     32        32
+502  Vertex list                                      5         5
+504  Edge entity                                      5         5
+508  Loop entity                                    443       443
+510  Face entity                                    376       376
+514  Shell entity                                     5         5
+_________________________________________________________________
+
+
+=================================================================
+Resumo de resultados
+=================================================================
+Tipo de recurso do SolidWorks                Contagem
+-----------------------                -----
+Recursos sólidos                       5
+Recursos de superfície                     0
+Recursos de curva/esboço                0
+--------------------------------------------
+Hora inicial: quarta-feira, fevereiro 20, 2013 18:37:23
+Hora de término: quarta-feira, fevereiro 20, 2013 18:37:27
+Tempo de processamento: 0 days, 00 hours, 00 mins, 04 secs
