@@ -1,0 +1,9 @@
+Added Component: Designator=P26(HDR2X3)
+Added Pin To Net: NetName=MISO Pin=P26-1
+Added Pin To Net: NetName=+5V_1 Pin=P26-2
+Added Pin To Net: NetName=SCK Pin=P26-3
+Added Pin To Net: NetName=MOSI Pin=P26-4
+Added Pin To Net: NetName=GND Pin=P26-6
+Added Pin To Net: NetName=RST Pin=P26-5
+Added Net: Name=RST
+Added Member To Class: ClassName=Temperature Member=Component P26 Header 3X2

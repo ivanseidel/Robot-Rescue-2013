@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Rescue-MainBoard.PcbDoc   02/04/2013  19:37:15
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Rescue-MainBoard.TXT
+EIA File   : Rescue-MainBoard.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          157              59.95 Inch (1522.70 mm)
+T2        24mil (0.6096mm)         Round          2                0.20 Inch (5.08 mm)
+T3        25mil (0.635mm)          Round          32               6.69 Inch (169.93 mm)
+T4        28mil (0.7112mm)         Round          118              32.57 Inch (827.30 mm)
+T5        30mil (0.762mm)          Round          88               14.67 Inch (372.50 mm)
+T6        35mil (0.889mm)          Round          103              32.06 Inch (814.29 mm)
+T7        79mil (2.0066mm)         Round          22               39.22 Inch (996.06 mm)
+T8        126mil (3.2004mm)        Round          4                9.75 Inch (247.68 mm)
+T9        118mil (2.9972mm)        Round          4         NPTH   12.04 Inch (305.92 mm)
+---------------------------------------------------------------------------
+Totals                                            530              207.14 Inch (5261.45 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

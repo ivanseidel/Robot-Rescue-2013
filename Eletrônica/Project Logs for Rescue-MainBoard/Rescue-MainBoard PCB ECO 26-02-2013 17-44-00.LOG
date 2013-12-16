@@ -1,0 +1,10 @@
+Added Component: Designator=xBee(xBee)
+Added Pin To Net: NetName=+3V3_1 Pin=xBee-1
+Added Pin To Net: NetName=NetxBee_2 Pin=xBee-2
+Added Pin To Net: NetName=NetxBee_3 Pin=xBee-3
+Added Pin To Net: NetName=NetQ1_1 Pin=xBee-5
+Added Pin To Net: NetName=GND Pin=xBee-10
+Added Pin To Net: NetName=NetP3_2 Pin=xBee-20
+Added Class: Name=Bluetooth
+Added Class: Name=Core
+Added Class: Name=Interface

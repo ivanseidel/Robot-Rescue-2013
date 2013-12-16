@@ -1,0 +1,192 @@
+Removed Pin From Net: NetName=+5V_1 Pin=P5-1
+Removed Pin From Net: NetName=PAUSE_DIGITAL Pin=P5-2
+Removed Pin From Net: NetName=PAUSE Pin=R8-1
+Removed Member From Class: ClassName=Interface Member=P5
+Added Component: Designator=L?(LED0805)
+Added Component: Designator=L?(LED0805)
+Added Component: Designator=L?(LED0805)
+Added Component: Designator=L?(LED0805)
+Added Component: Designator=L?(LED0805)
+Added Component: Designator=L?(LED0805)
+Added Component: Designator=M?(DIP40-LARGE)
+Added Component: Designator=P?(B6B-PH-K)
+Added Component: Designator=P?(B6B-PH-K)
+Added Component: Designator=P?(B6B-PH-K)
+Added Component: Designator=P?(B6B-PH-K)
+Added Component: Designator=P?(HDR1X3H)
+Added Component: Designator=P?(HDR1X3H)
+Added Component: Designator=P?(B2B-PH-K)
+Added Component: Designator=P?(B2B-PH-K)
+Added Component: Designator=P?(B2B-PH-K)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=Q?(SOT23)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=SW?(PUSH-BUTTON 5,2X1,6MM)
+Added Component: Designator=SW?(PUSH-BUTTON 5,2X1,6MM)
+Added Component: Designator=U?(TB6612FNG)
+Added Component: Designator=U?(TB6612FNG)
+Added Pin To Net: NetName=VIN Pin=*-VIN
+Added Pin To Net: NetName=GND Pin=M?-1
+Added Pin To Net: NetName=VIN Pin=M?-2
+Added Pin To Net: NetName=+5V_1 Pin=P?-1
+Added Pin To Net: NetName=+5V_1 Pin=P?-1
+Added Pin To Net: NetName=+5V_1 Pin=P?-1
+Added Pin To Net: NetName=PAUSE_DIGITAL Pin=P?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=+3V3_1 Pin=R?-1
+Added Pin To Net: NetName=+3V3_1 Pin=R?-1
+Added Pin To Net: NetName=+5V_1 Pin=R?-1
+Added Pin To Net: NetName=+5V_1 Pin=R?-1
+Added Pin To Net: NetName=+5V_1 Pin=R?-1
+Added Pin To Net: NetName=+5V_1 Pin=R?-1
+Added Pin To Net: NetName=+5V_1 Pin=R?-1
+Added Pin To Net: NetName=+5V_1 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=SW?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=+3V3_1 Pin=U?-2
+Added Pin To Net: NetName=+3V3_1 Pin=U?-2
+Added Pin To Net: NetName=VIN Pin=U?-7
+Added Pin To Net: NetName=VIN Pin=U?-7
+Change Net Name : Old Net Name=PAUSE New Net Name=NetC4_2
+Added Pin To Net: NetName=M1+ Pin=P?-1
+Added Pin To Net: NetName=M1+ Pin=U?-3
+Added Net: Name=M1+
+Added Pin To Net: NetName=M1- Pin=P?-2
+Added Pin To Net: NetName=M1- Pin=U?-4
+Added Net: Name=M1-
+Added Pin To Net: NetName=M1_DIR1 Pin=M?-18
+Added Pin To Net: NetName=M1_DIR1 Pin=U?-15
+Added Net: Name=M1_DIR1
+Added Pin To Net: NetName=M1_DIR2 Pin=M?-17
+Added Pin To Net: NetName=M1_DIR2 Pin=U?-14
+Added Net: Name=M1_DIR2
+Added Pin To Net: NetName=M1_ENC1 Pin=M?-5
+Added Pin To Net: NetName=M1_ENC1 Pin=R?-1
+Added Net: Name=M1_ENC1
+Added Pin To Net: NetName=M1_ENC2 Pin=M?-6
+Added Pin To Net: NetName=M1_ENC2 Pin=R?-1
+Added Net: Name=M1_ENC2
+Added Pin To Net: NetName=M1_PWM Pin=M?-24
+Added Pin To Net: NetName=M1_PWM Pin=U?-16
+Added Net: Name=M1_PWM
+Added Pin To Net: NetName=M2+ Pin=P?-1
+Added Pin To Net: NetName=M2+ Pin=U?-6
+Added Net: Name=M2+
+Added Pin To Net: NetName=M2- Pin=P?-2
+Added Pin To Net: NetName=M2- Pin=U?-5
+Added Net: Name=M2-
+Added Pin To Net: NetName=M2_DIR1 Pin=M?-8
+Added Pin To Net: NetName=M2_DIR1 Pin=U?-12
+Added Net: Name=M2_DIR1
+Added Pin To Net: NetName=M2_DIR2 Pin=M?-7
+Added Pin To Net: NetName=M2_DIR2 Pin=U?-11
+Added Net: Name=M2_DIR2
+Added Pin To Net: NetName=M2_ENC1 Pin=M?-11
+Added Pin To Net: NetName=M2_ENC1 Pin=R?-1
+Added Net: Name=M2_ENC1
+Added Pin To Net: NetName=M2_ENC2 Pin=M?-12
+Added Pin To Net: NetName=M2_ENC2 Pin=R?-1
+Added Net: Name=M2_ENC2
+Added Pin To Net: NetName=M2_PWM Pin=M?-23
+Added Pin To Net: NetName=M2_PWM Pin=U?-10
+Added Net: Name=M2_PWM
+Added Pin To Net: NetName=M3+ Pin=P?-1
+Added Pin To Net: NetName=M3+ Pin=U?-3
+Added Net: Name=M3+
+Added Pin To Net: NetName=M3- Pin=P?-2
+Added Pin To Net: NetName=M3- Pin=U?-4
+Added Net: Name=M3-
+Added Pin To Net: NetName=M3_DIR1 Pin=M?-19
+Added Pin To Net: NetName=M3_DIR1 Pin=U?-15
+Added Net: Name=M3_DIR1
+Added Pin To Net: NetName=M3_DIR2 Pin=M?-20
+Added Pin To Net: NetName=M3_DIR2 Pin=U?-14
+Added Net: Name=M3_DIR2
+Added Pin To Net: NetName=M3_ENC1 Pin=M?-13
+Added Pin To Net: NetName=M3_ENC1 Pin=R?-1
+Added Net: Name=M3_ENC1
+Added Pin To Net: NetName=M3_ENC2 Pin=M?-14
+Added Pin To Net: NetName=M3_ENC2 Pin=R?-1
+Added Net: Name=M3_ENC2
+Added Pin To Net: NetName=M3_PWM Pin=M?-26
+Added Pin To Net: NetName=M3_PWM Pin=U?-16
+Added Net: Name=M3_PWM
+Added Pin To Net: NetName=M4+ Pin=P?-1
+Added Pin To Net: NetName=M4+ Pin=U?-6
+Added Net: Name=M4+
+Added Pin To Net: NetName=M4- Pin=P?-2
+Added Pin To Net: NetName=M4- Pin=U?-5
+Added Net: Name=M4-
+Added Pin To Net: NetName=M4_DIR1 Pin=M?-30
+Added Pin To Net: NetName=M4_DIR1 Pin=U?-12
+Added Net: Name=M4_DIR1
+Added Pin To Net: NetName=M4_DIR2 Pin=M?-29
+Added Pin To Net: NetName=M4_DIR2 Pin=U?-11
+Added Net: Name=M4_DIR2
+Added Pin To Net: NetName=M4_ENC1 Pin=M?-15
+Added Pin To Net: NetName=M4_ENC1 Pin=R?-1
+Added Net: Name=M4_ENC1
+Added Pin To Net: NetName=M4_ENC2 Pin=M?-16
+Added Pin To Net: NetName=M4_ENC2 Pin=R?-1
+Added Net: Name=M4_ENC2
+Added Pin To Net: NetName=M4_PWM Pin=M?-25
+Added Pin To Net: NetName=M4_PWM Pin=U?-10
+Added Net: Name=M4_PWM
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R?-2
+Added Net: Name=NetL?_1
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=L?-2
+Added Pin To Net: NetName=NetL?_2 Pin=P?-2
+Added Pin To Net: NetName=NetL?_2 Pin=Q?-1
+Added Net: Name=NetL?_2
+Added Pin To Net: NetName=NetP?_5 Pin=R?-2
+Added Net: Name=NetP?_5
+Added Pin To Net: NetName=NetP?_6 Pin=R?-2
+Added Net: Name=NetP?_6
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Net: Name=NetQ?_3
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=SW?-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=PAUSE Pin=R6-2
+Added Pin To Net: NetName=PAUSE Pin=R8-1
+Added Pin To Net: NetName=PAUSE Pin=U3-1
+Added Net: Name=PAUSE
+Added Pin To Net: NetName=SCL/RX Pin=M?-27
+Added Pin To Net: NetName=SCL/RX Pin=P?-2
+Added Net: Name=SCL/RX
+Added Pin To Net: NetName=SDA/TX Pin=M?-28
+Added Pin To Net: NetName=SDA/TX Pin=P?-2
+Added Net: Name=SDA/TX
+Added Pin To Net: NetName=STBY Pin=M?-21
+Added Pin To Net: NetName=STBY Pin=U?-13
+Added Pin To Net: NetName=STBY Pin=U?-13
+Added Net: Name=STBY
+Added Class: Name=Speed Controller
+Added Member To Class: ClassName=Interface Member=Component L? LED
+Added Member To Class: ClassName=Interface Member=Component P? JST PH 2
+Added Member To Class: ClassName=Interface Member=Component Q? BSS138
+Added Member To Class: ClassName=Interface Member=Component R? 1K
+Added Member To Class: ClassName=Interface Member=Component SW? PUSH BUTTON
+Added Room: Name=Speed Controller

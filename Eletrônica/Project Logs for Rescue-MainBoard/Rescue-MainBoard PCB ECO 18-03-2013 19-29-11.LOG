@@ -1,0 +1,13 @@
+Change Component Comment : Designator=R12 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R30 Old Comment=1K New Comment=330R
+Change Component Comment : Designator=D1 Old Comment=DIODE New Comment=1N4004
+Change Component Comment : Designator=D2 Old Comment=DIODE New Comment=1N4004
+Added Component: Designator=3V3_DUE(LED0805)
+Added Component: Designator=R48(RES1206)
+Added Pin To Net: NetName=GND Pin=3V3_DUE-2
+Added Pin To Net: NetName=+3V3_DUE Pin=R48-2
+Added Pin To Net: NetName=Net3V3_DUE_1 Pin=3V3_DUE-1
+Added Pin To Net: NetName=Net3V3_DUE_1 Pin=R48-1
+Added Net: Name=Net3V3_DUE_1
+Added Member To Class: ClassName=Power Supply Member=Component 3V3_DUE LED
+Added Member To Class: ClassName=Power Supply Member=Component R48 1K

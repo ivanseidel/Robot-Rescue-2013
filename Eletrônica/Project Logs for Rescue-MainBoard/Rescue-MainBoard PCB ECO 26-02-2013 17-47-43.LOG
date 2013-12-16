@@ -1,0 +1,42 @@
+Change Component Comment : Designator=R13 Old Comment=330R New Comment=1K
+Change Component Library : Designator=R13 Old Library=CustomLibrary.IntLib New Library=CustomLibrary.SchLib
+Added Component: Designator=R3(RES1206)
+Added Component: Designator=R4(RES1206)
+Added Component: Designator=R5(RES1206)
+Added Component: Designator=R6(RES1206)
+Added Component: Designator=R7(RES1206)
+Added Component: Designator=R8(RES1206)
+Added Component: Designator=R9(RES1206)
+Added Component: Designator=R10(RES1206)
+Added Component: Designator=R11(RES1206)
+Added Component: Designator=R12(RES1206)
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=+5V_1 Pin=R3-2
+Added Pin To Net: NetName=NetE1_1 Pin=R4-1
+Added Pin To Net: NetName=NetR3_1 Pin=R4-2
+Added Pin To Net: NetName=PAUSE_CAPACITIVE Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=PAUSE Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=PAUSE Pin=R7-2
+Added Pin To Net: NetName=PAUSE Pin=R8-1
+Added Pin To Net: NetName=NetL1_1 Pin=R8-2
+Added Pin To Net: NetName=+5V_1 Pin=R9-1
+Added Pin To Net: NetName=RESET Pin=R9-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=TX Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=PAUSE_DIGITAL Pin=R12-2
+Added Member To Class: ClassName=Interface Member=Component R3 1K
+Added Member To Class: ClassName=Interface Member=Component R4 1K
+Added Member To Class: ClassName=Interface Member=Component R5 1K
+Added Member To Class: ClassName=Interface Member=Component R6 1K
+Added Member To Class: ClassName=Interface Member=Component R7 1K
+Added Member To Class: ClassName=Interface Member=Component R8 1K
+Added Member To Class: ClassName=Temperature Member=Component R9 1K
+Added Member To Class: ClassName=Temperature Member=Component R10 1K
+Added Member To Class: ClassName=Temperature Member=Component R11 1K
+Added Member To Class: ClassName=Interface Member=Component R12 1K

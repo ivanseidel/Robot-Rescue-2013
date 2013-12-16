@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetL7_2 Pin=Q2-1
+Removed Pin From Net: NetName=LED Pin=Q2-2
+Removed Pin From Net: NetName=Net*_13 Pin=Q2-3
+Removed Member From Class: ClassName=LCD Member=Q2
+Added Component: Designator=Q4(SOT23)
+Added Pin To Net: NetName=NetL7_2 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=Net*_9 Pin=Q2-3
+Added Pin To Net: NetName=+3V3_DUE Pin=Q4-1
+Added Pin To Net: NetName=LED Pin=Q4-2
+Added Pin To Net: NetName=Net*_13 Pin=Q4-3
+Added Member To Class: ClassName=LCD Member=Component Q4 BSS138

@@ -1,0 +1,4 @@
+Added Component: Designator=P25(B3B-PH-K)
+Added Pin To Net: NetName=NetD1_2 Pin=P25-1
+Added Pin To Net: NetName=NetP23_2 Pin=P25-3
+Added Member To Class: ClassName=Power Supply Member=Component P25 JST PH 3

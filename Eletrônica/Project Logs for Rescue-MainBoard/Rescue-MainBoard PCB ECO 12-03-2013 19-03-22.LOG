@@ -1,0 +1,12 @@
+Added Component: Designator=P22(B4B-PH-K)
+Added Pin To Net: NetName=+5V_1 Pin=P22-1
+Added Pin To Net: NetName=GND Pin=P22-2
+Added Pin To Net: NetName=NetP22_3 Pin=P22-3
+Added Net: Name=NetP22_3
+Added Pin To Net: NetName=NetP22_4 Pin=P22-4
+Added Net: Name=NetP22_4
+Added Class: Name=Bluetooth
+Added Room: Name=Bluetooth
+Added Room: Name=Interface
+Added Room: Name=Power Supply
+Added Room: Name=Sensors

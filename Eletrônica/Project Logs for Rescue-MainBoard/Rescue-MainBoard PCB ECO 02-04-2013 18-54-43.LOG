@@ -1,0 +1,15 @@
+Added Component: Designator=RX(TP1)
+Added Component: Designator=TMP_SCL(TP1)
+Added Component: Designator=TMP_SDA(TP1)
+Added Component: Designator=TX_H(TP1)
+Added Component: Designator=TX_L(TP1)
+Added Pin To Net: NetName=UART2.RX Pin=RX-1
+Added Pin To Net: NetName=SCL Pin=TMP_SCL-1
+Added Pin To Net: NetName=SDA Pin=TMP_SDA-1
+Added Pin To Net: NetName=TX Pin=TX_H-1
+Added Pin To Net: NetName=UART2.TX Pin=TX_L-1
+Added Member To Class: ClassName=Temperature Member=Component RX Test Point
+Added Member To Class: ClassName=Temperature Member=Component TMP_SCL Test Point
+Added Member To Class: ClassName=Temperature Member=Component TMP_SDA Test Point
+Added Member To Class: ClassName=Temperature Member=Component TX_H Test Point
+Added Member To Class: ClassName=Temperature Member=Component TX_L Test Point

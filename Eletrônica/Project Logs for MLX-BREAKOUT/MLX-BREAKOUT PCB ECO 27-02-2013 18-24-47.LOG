@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 4H New DesignItemId=Header 4
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4H New Footprint=HDR1X4
+Change Component Comment : Designator=P1 Old Comment=Header 4H New Comment=Header 4
+Added Room: Name=MLX

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=A2 Pin=P27-1
+Removed Pin From Net: NetName=A3 Pin=P27-2
+Removed Pin From Net: NetName=A7 Pin=P27-3
+Removed Pin From Net: NetName=A0 Pin=P27-4
+Change Component DesignItemId : Designator=P27 Old DesignItemId=JST PH 4 New DesignItemId=JST PH 6
+Change Component Footprint: Designator=P27 Old Footprint=B4B-PH-K New Footprint=B6B-PH-K
+Change Component Comment : Designator=P27 Old Comment=JST PH 4 New Comment=JST PH 6
+Added Pin To Net: NetName=GND Pin=P27-1
+Added Pin To Net: NetName=A2 Pin=P27-2
+Added Pin To Net: NetName=A3 Pin=P27-3
+Added Pin To Net: NetName=A7 Pin=P27-4
+Added Pin To Net: NetName=A0 Pin=P27-5
+Added Pin To Net: NetName=+5V_1 Pin=P27-6

@@ -1,0 +1,45 @@
+Added Component: Designator=L1(LED-5mm)
+Added Component: Designator=L2(LED-5mm)
+Added Component: Designator=LDR1(LDR-5mm)
+Added Component: Designator=P1(B4B-PH-K)
+Added Component: Designator=P2(HDR1X3)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=R1(RES1206)
+Added Component: Designator=R2(RES1206)
+Added Component: Designator=R3(RES1206)
+Added Component: Designator=R4(RES1206)
+Added Pin To Net: NetName=+3V3 Pin=LDR1-1
+Added Pin To Net: NetName=+3V3 Pin=P1-4
+Added Pin To Net: NetName=+3V3 Pin=P2-1
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Pin To Net: NetName=+3V3 Pin=R4-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=ANA Pin=P1-2
+Added Pin To Net: NetName=ANA Pin=R1-1
+Added Net: Name=ANA
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=IO Pin=P2-2
+Added Pin To Net: NetName=IO Pin=Q1-3
+Added Net: Name=IO
+Added Pin To Net: NetName=LED Pin=P1-1
+Added Pin To Net: NetName=LED Pin=P2-3
+Added Net: Name=LED
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=R3-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=L2-2
+Added Pin To Net: NetName=NetL1_2 Pin=Q1-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL2_1 Pin=R4-1
+Added Net: Name=NetL2_1
+Added Pin To Net: NetName=NetLDR1_2 Pin=LDR1-2
+Added Pin To Net: NetName=NetLDR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetLDR1_2 Pin=R2-2
+Added Net: Name=NetLDR1_2
+Added Class: Name=Light Sensor Breakout
+Added Room: Name=Light Sensor Breakout

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=UART2.TX Pin=P7-5
+Added Pin To Net: NetName=TX Pin=P7-5

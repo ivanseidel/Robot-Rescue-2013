@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=M1_ENC1 Pin=P8-5
+Removed Pin From Net: NetName=M1_ENC2 Pin=P8-6
+Change Component Comment : Designator=R50 Old Comment=10R New Comment=1K
+Change Component Designator: OldDesignator=R50 NewDesignator=R22

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=M1_ENC1 Pin=M1-11
+Removed Pin From Net: NetName=M1_ENC2 Pin=M1-12
+Removed Pin From Net: NetName=M3_ENC1 Pin=M1-13
+Removed Pin From Net: NetName=M3_ENC2 Pin=M1-14
+Removed Pin From Net: NetName=M4_ENC1 Pin=M1-15
+Removed Pin From Net: NetName=M4_ENC2 Pin=M1-16
+Removed Pin From Net: NetName=M2_DIR2 Pin=M1-17
+Removed Pin From Net: NetName=M2_DIR1 Pin=M1-18
+Added Pin To Net: NetName=M1_ENC1 Pin=M1-10
+Added Pin To Net: NetName=M1_ENC2 Pin=M1-11
+Added Pin To Net: NetName=M3_ENC1 Pin=M1-12
+Added Pin To Net: NetName=M3_ENC2 Pin=M1-13
+Added Pin To Net: NetName=M4_ENC1 Pin=M1-14
+Added Pin To Net: NetName=M4_ENC2 Pin=M1-15
+Added Pin To Net: NetName=M2_DIR2 Pin=M1-16
+Added Pin To Net: NetName=M2_DIR1 Pin=M1-17
+Added Pin To Net: NetName=STBY Pin=M1-18

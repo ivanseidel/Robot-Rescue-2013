@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RX Pin=*-18
+Removed Pin From Net: NetName=RX Pin=M1-27
+Added Pin To Net: NetName=RX Pin=*-18
+Added Pin To Net: NetName=RX Pin=M1-27
+Added Room: Name=Bluetooth

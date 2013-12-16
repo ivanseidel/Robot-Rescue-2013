@@ -1,0 +1,17 @@
+Added Component: Designator=3V3_1(LED0805)
+Added Component: Designator=5V_1(LED0805)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Pin To Net: NetName=GND Pin=3V3_1-2
+Added Pin To Net: NetName=GND Pin=5V_1-2
+Added Pin To Net: NetName=+3V3_1 Pin=R?-2
+Added Pin To Net: NetName=+5V_1 Pin=R?-2
+Added Pin To Net: NetName=Net3V3_1_1 Pin=3V3_1-1
+Added Pin To Net: NetName=Net3V3_1_1 Pin=R?-1
+Added Net: Name=Net3V3_1_1
+Added Pin To Net: NetName=Net5V_1_1 Pin=5V_1-1
+Added Pin To Net: NetName=Net5V_1_1 Pin=R?-1
+Added Net: Name=Net5V_1_1
+Added Member To Class: ClassName=Power Supply Member=Component 3V3_1 LED
+Added Member To Class: ClassName=Power Supply Member=Component 5V_1 LED
+Added Member To Class: ClassName=Power Supply Member=Component R? 1K

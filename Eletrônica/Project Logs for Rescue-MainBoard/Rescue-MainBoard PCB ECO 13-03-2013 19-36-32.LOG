@@ -1,0 +1,18 @@
+Added Component: Designator=D1(DIODESMA)
+Added Component: Designator=D2(DIODESMA)
+Added Component: Designator=P23(B2B-PH-K)
+Added Component: Designator=P24(B2B-PH-K)
+Added Pin To Net: NetName=VIN Pin=D1-1
+Added Pin To Net: NetName=VIN Pin=D2-1
+Added Pin To Net: NetName=GND Pin=P24-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=P23-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetP23_2 Pin=P23-2
+Added Pin To Net: NetName=NetP23_2 Pin=P24-1
+Added Net: Name=NetP23_2
+Added Member To Class: ClassName=Power Supply Member=Component D1 DIODE
+Added Member To Class: ClassName=Power Supply Member=Component D2 DIODE
+Added Member To Class: ClassName=Power Supply Member=Component P23 JST PH 2
+Added Member To Class: ClassName=Power Supply Member=Component P24 JST PH 2

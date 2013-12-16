@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DDD Pin=P13-3
+Added Net: Name=DDD
+Added Pin To Net: NetName=SSSS Pin=P13-1
+Added Net: Name=SSSS

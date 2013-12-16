@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RX Pin=*-18
+Removed Pin From Net: NetName=RX Pin=M1-27
+Removed Pin From Net: NetName=Net*_A5 Pin=P16-1
+Removed Pin From Net: NetName=Net*_A6 Pin=P17-1
+Removed Pin From Net: NetName=Net*_A8 Pin=P19-1
+Removed Pin From Net: NetName=Net*_A9 Pin=P21-1
+Added Pin To Net: NetName=RX Pin=*-18
+Added Pin To Net: NetName=RX Pin=M1-27
+Added Pin To Net: NetName=Net*_A9 Pin=P16-1
+Added Pin To Net: NetName=Net*_A8 Pin=P17-1
+Added Pin To Net: NetName=Net*_A6 Pin=P19-1
+Added Pin To Net: NetName=Net*_A5 Pin=P21-1

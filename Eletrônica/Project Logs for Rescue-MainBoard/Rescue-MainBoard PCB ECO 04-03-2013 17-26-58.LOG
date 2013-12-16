@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Speed Controller Member=P13
+Change Component DesignItemId : Designator=P12 Old DesignItemId=Header 3H New DesignItemId=Header 3
+Change Component Footprint: Designator=P12 Old Footprint=HDR1X3H New Footprint=HDR1X3
+Change Component Comment : Designator=P12 Old Comment=Header 3H New Comment=Header 3
+Added Pin To Net: NetName=SCL/RX Pin=P12-2
+Added Net: Name=SCL/RX

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=+3V3_1 Pin=xBee-1
+Removed Pin From Net: NetName=GND Pin=xBee-10

@@ -1,0 +1,14 @@
+Added Component: Designator=C1(C1206)
+Added Component: Designator=P1(HDR1X4H)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=P1-3
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=SCL Pin=P1-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-2
+Added Net: Name=SDA
+Added Class: Name=MLX
+Added Room: Name=MLX

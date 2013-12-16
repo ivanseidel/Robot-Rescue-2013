@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=RESET-2
+Removed Member From Class: ClassName=Core Member=RESET

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RX Pin=*-18
+Removed Pin From Net: NetName=RX Pin=M1-27
+Added Pin To Net: NetName=RX Pin=*-18
+Added Pin To Net: NetName=RX Pin=M1-27
+Change Net Name : Old Net Name=Net*_0 New Net Name=UART0.TX
+Change Net Name : Old Net Name=Net*_1 New Net Name=UART0.RX
+Change Net Name : Old Net Name=Net*_14 New Net Name=UART3.RX
+Change Net Name : Old Net Name=Net*_15 New Net Name=UART3.TX
+Change Net Name : Old Net Name=Net*_17 New Net Name=UART2.TX
+Change Net Name : Old Net Name=Net*_20 New Net Name=I2C0.SDA
+Change Net Name : Old Net Name=Net*_21 New Net Name=I2C0.SCL

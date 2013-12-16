@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=NetL7_2 Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=Net*_9 Pin=Q2-3
+Removed Pin From Net: NetName=+3V3_DUE Pin=R22-2
+Change Component Comment : Designator=R22 Old Comment=1K New Comment=10R
+Added Component: Designator=C19(6-0805_N)
+Added Component: Designator=C20(6-0805_N)
+Added Component: Designator=Q2(SOT23)
+Added Component: Designator=R24(RES1206)
+Added Pin To Net: NetName=Net*_23 Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=Net*_22 Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=+3V3_DUE Pin=Q2-1
+Added Pin To Net: NetName=NetL7_2 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=Net*_9 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Pin To Net: NetName=LED Pin=Q2-2
+Added Pin To Net: NetName=LED Pin=R22-2
+Added Pin To Net: NetName=LED Pin=R24-1
+Added Net: Name=LED
+Added Pin To Net: NetName=Net*_13 Pin=*-13
+Added Pin To Net: NetName=Net*_13 Pin=Q2-3
+Added Net: Name=Net*_13
+Added Pin To Net: NetName=NetLCD1_35 Pin=LCD1-35
+Added Net: Name=NetLCD1_35
+Added Pin To Net: NetName=NetLCD1_36 Pin=LCD1-36
+Added Net: Name=NetLCD1_36
+Added Pin To Net: NetName=NetLCD1_37 Pin=LCD1-37
+Added Net: Name=NetLCD1_37
+Added Pin To Net: NetName=NetLCD1_38 Pin=LCD1-38
+Added Net: Name=NetLCD1_38
+Added Member To Class: ClassName=Interface Member=Component C19 Cap Semi
+Added Member To Class: ClassName=Interface Member=Component C20 Cap Semi
+Added Member To Class: ClassName=LCD Member=Component Q2 BSS138
+Added Member To Class: ClassName=LCD Member=Component R24 10K

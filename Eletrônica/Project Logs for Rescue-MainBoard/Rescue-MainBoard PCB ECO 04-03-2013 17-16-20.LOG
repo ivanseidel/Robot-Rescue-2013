@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net5V_1_1 Pin=R?-1
+Removed Pin From Net: NetName=+5V_1 Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Added Pin To Net: NetName=Net5V_1_1 Pin=R30-1
+Added Pin To Net: NetName=+5V_1 Pin=R30-2
+Added Pin To Net: NetName=Net3V3_1_1 Pin=R31-1
+Added Pin To Net: NetName=+3V3_1 Pin=R31-2
+Added Member To Class: ClassName=Power Supply Member=Component R31 1K

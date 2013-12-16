@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Net*_A10 Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Added Pin To Net: NetName=VIN Pin=R44-2
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=Net*_A10 Pin=R45-2
+Added Member To Class: ClassName=Power Supply Member=Component R44 10K

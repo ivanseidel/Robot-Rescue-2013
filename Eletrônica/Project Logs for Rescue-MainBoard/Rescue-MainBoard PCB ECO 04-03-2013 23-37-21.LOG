@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetL7_2 Pin=L8-2
+Removed Pin From Net: NetName=+5V_1 Pin=R19-1
+Removed Member From Class: ClassName=Interface Member=L8
+Removed Member From Class: ClassName=Interface Member=R19
+Added Room: Name=Interface

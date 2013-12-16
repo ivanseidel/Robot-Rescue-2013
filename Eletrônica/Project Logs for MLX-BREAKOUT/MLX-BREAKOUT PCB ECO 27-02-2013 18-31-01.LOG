@@ -1,0 +1,6 @@
+Added Component: Designator=MLX(MLX90614)
+Added Pin To Net: NetName=SCL Pin=MLX-1
+Added Pin To Net: NetName=SDA Pin=MLX-2
+Added Pin To Net: NetName=NetC1_2 Pin=MLX-3
+Added Pin To Net: NetName=GND Pin=MLX-4
+Added Member To Class: ClassName=MLX Member=Component MLX MLX90614

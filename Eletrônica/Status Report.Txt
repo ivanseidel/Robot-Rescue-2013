@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Temperatura+Sensor Luz.GTL]
+   Generated File[Temperatura+Sensor Luz.GBL]
+   Generated File[Temperatura+Sensor Luz.GTO]
+   Generated File[Temperatura+Sensor Luz.GTS]
+   Generated File[Temperatura+Sensor Luz.GBS]
+   Generated File[Temperatura+Sensor Luz.GBO]
+   Generated File[Temperatura+Sensor Luz.EXTREP]
+   Generated File[Temperatura+Sensor Luz.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 01:29:08 On 22/03/2013

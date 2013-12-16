@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RX Pin=P12-3
+Removed Pin From Net: NetName=TX Pin=P13-3
+Removed Member From Class: ClassName=Speed Controller Member=P12
+Removed Member From Class: ClassName=Speed Controller Member=P13
+Added Pin To Net: NetName=RX Pin=M1-27
+Added Pin To Net: NetName=TX Pin=M1-28
+Added Room: Name=Speed Controller
+Added Room: Name=Temperature

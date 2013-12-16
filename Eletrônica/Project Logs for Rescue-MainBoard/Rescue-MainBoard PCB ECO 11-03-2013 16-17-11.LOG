@@ -1,0 +1,6 @@
+Added Component: Designator=P21(B3B-PH-K)
+Added Pin To Net: NetName=GND Pin=P21-2
+Added Pin To Net: NetName=+3V3_1 Pin=P21-3
+Added Pin To Net: NetName=NetP21_1 Pin=P21-1
+Added Net: Name=NetP21_1
+Added Member To Class: ClassName=Sensors Member=Component P21 JST PH 3

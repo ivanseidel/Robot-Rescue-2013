@@ -1,0 +1,9 @@
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=VIN Pin=R?-2
+Added Pin To Net: NetName=Net*_A10 Pin=*-A10
+Added Pin To Net: NetName=Net*_A10 Pin=R?-1
+Added Pin To Net: NetName=Net*_A10 Pin=R?-2
+Added Net: Name=Net*_A10
+Added Member To Class: ClassName=Power Supply Member=Component R? 2K2

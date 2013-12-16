@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=Net*_6 Pin=U4-1
+Removed Pin From Net: NetName=Net*_5 Pin=U4-2
+Removed Pin From Net: NetName=Net*_4 Pin=U4-9
+Removed Pin From Net: NetName=Net*_3 Pin=U4-10
+Removed Pin From Net: NetName=Net*_2 Pin=U4-11
+Removed Pin From Net: NetName=Net*_7 Pin=U4-32
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Component: Designator=R?(RES1206)
+Added Pin To Net: NetName=Net*_2 Pin=R?-1
+Added Pin To Net: NetName=Net*_3 Pin=R?-1
+Added Pin To Net: NetName=Net*_4 Pin=R?-1
+Added Pin To Net: NetName=Net*_5 Pin=R?-1
+Added Pin To Net: NetName=Net*_6 Pin=R?-1
+Added Pin To Net: NetName=Net*_7 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=Net*_2 Pin=R?-2
+Added Pin To Net: NetName=Net*_3 Pin=R?-2
+Added Pin To Net: NetName=Net*_4 Pin=R?-2
+Added Pin To Net: NetName=Net*_5 Pin=R?-2
+Added Pin To Net: NetName=Net*_6 Pin=R?-2
+Added Pin To Net: NetName=Net*_7 Pin=R?-2
+Added Pin To Net: NetName=D2 Pin=R?-1
+Added Pin To Net: NetName=D2 Pin=U4-32
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=R?-1
+Added Pin To Net: NetName=D3 Pin=U4-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=R?-1
+Added Pin To Net: NetName=D4 Pin=U4-2
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=R?-1
+Added Pin To Net: NetName=D5 Pin=U4-9
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=R?-1
+Added Pin To Net: NetName=D6 Pin=U4-10
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=R?-1
+Added Pin To Net: NetName=D7 Pin=U4-11
+Added Net: Name=D7
+Added Member To Class: ClassName=Temperature Member=Component R? 1K

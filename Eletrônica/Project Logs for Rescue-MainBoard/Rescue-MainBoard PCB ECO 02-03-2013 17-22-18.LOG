@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=SCL Pin=I1-1
+Removed Pin From Net: NetName=SDA Pin=I1-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I1-3
+Removed Pin From Net: NetName=GND Pin=I1-4
+Removed Pin From Net: NetName=SCL Pin=I2-1
+Removed Pin From Net: NetName=SDA Pin=I2-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I2-3
+Removed Pin From Net: NetName=GND Pin=I2-4
+Removed Pin From Net: NetName=SCL Pin=I3-1
+Removed Pin From Net: NetName=SDA Pin=I3-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I3-3
+Removed Pin From Net: NetName=GND Pin=I3-4
+Removed Pin From Net: NetName=SCL Pin=I4-1
+Removed Pin From Net: NetName=SDA Pin=I4-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I4-3
+Removed Pin From Net: NetName=GND Pin=I4-4
+Removed Pin From Net: NetName=SCL Pin=I5-1
+Removed Pin From Net: NetName=SDA Pin=I5-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I5-3
+Removed Pin From Net: NetName=GND Pin=I5-4
+Removed Pin From Net: NetName=SCL Pin=I6-1
+Removed Pin From Net: NetName=SDA Pin=I6-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I6-3
+Removed Pin From Net: NetName=GND Pin=I6-4
+Removed Pin From Net: NetName=SCL Pin=I7-1
+Removed Pin From Net: NetName=SDA Pin=I7-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I7-3
+Removed Pin From Net: NetName=GND Pin=I7-4
+Removed Pin From Net: NetName=SCL Pin=I8-1
+Removed Pin From Net: NetName=SDA Pin=I8-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I8-3
+Removed Pin From Net: NetName=GND Pin=I8-4
+Removed Pin From Net: NetName=SCL Pin=I9-1
+Removed Pin From Net: NetName=SDA Pin=I9-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I9-3
+Removed Pin From Net: NetName=GND Pin=I9-4
+Removed Pin From Net: NetName=SCL Pin=I10-1
+Removed Pin From Net: NetName=SDA Pin=I10-2
+Removed Pin From Net: NetName=+3V3_1 Pin=I10-3
+Removed Pin From Net: NetName=GND Pin=I10-4
+Removed Member From Class: ClassName=Temperature Member=I1
+Removed Member From Class: ClassName=Temperature Member=I2
+Removed Member From Class: ClassName=Temperature Member=I3
+Removed Member From Class: ClassName=Temperature Member=I4
+Removed Member From Class: ClassName=Temperature Member=I5
+Removed Member From Class: ClassName=Temperature Member=I6
+Removed Member From Class: ClassName=Temperature Member=I7
+Removed Member From Class: ClassName=Temperature Member=I8
+Removed Member From Class: ClassName=Temperature Member=I9
+Removed Member From Class: ClassName=Temperature Member=I10
+Added Component: Designator=MLX1(MLX-BREAKOUT)
+Added Component: Designator=MLX2(MLX-BREAKOUT)
+Added Component: Designator=MLX3(MLX-BREAKOUT)
+Added Component: Designator=MLX4(MLX-BREAKOUT)
+Added Component: Designator=MLX5(MLX-BREAKOUT)
+Added Component: Designator=MLX6(MLX-BREAKOUT)
+Added Component: Designator=MLX7(MLX-BREAKOUT)
+Added Component: Designator=MLX8(MLX-BREAKOUT)
+Added Pin To Net: NetName=GND Pin=MLX1-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX1-2
+Added Pin To Net: NetName=SDA Pin=MLX1-3
+Added Pin To Net: NetName=SCL Pin=MLX1-4
+Added Pin To Net: NetName=GND Pin=MLX2-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX2-2
+Added Pin To Net: NetName=SDA Pin=MLX2-3
+Added Pin To Net: NetName=SCL Pin=MLX2-4
+Added Pin To Net: NetName=GND Pin=MLX3-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX3-2
+Added Pin To Net: NetName=SDA Pin=MLX3-3
+Added Pin To Net: NetName=SCL Pin=MLX3-4
+Added Pin To Net: NetName=GND Pin=MLX4-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX4-2
+Added Pin To Net: NetName=SDA Pin=MLX4-3
+Added Pin To Net: NetName=SCL Pin=MLX4-4
+Added Pin To Net: NetName=GND Pin=MLX5-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX5-2
+Added Pin To Net: NetName=SDA Pin=MLX5-3
+Added Pin To Net: NetName=SCL Pin=MLX5-4
+Added Pin To Net: NetName=GND Pin=MLX6-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX6-2
+Added Pin To Net: NetName=SDA Pin=MLX6-3
+Added Pin To Net: NetName=SCL Pin=MLX6-4
+Added Pin To Net: NetName=GND Pin=MLX7-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX7-2
+Added Pin To Net: NetName=SDA Pin=MLX7-3
+Added Pin To Net: NetName=SCL Pin=MLX7-4
+Added Pin To Net: NetName=GND Pin=MLX8-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX8-2
+Added Pin To Net: NetName=SDA Pin=MLX8-3
+Added Pin To Net: NetName=SCL Pin=MLX8-4
+Added Member To Class: ClassName=Temperature Member=Component MLX1 MLX90614
+Added Member To Class: ClassName=Temperature Member=Component MLX2 MLX90614
+Added Member To Class: ClassName=Temperature Member=Component MLX3 MLX90614
+Added Member To Class: ClassName=Temperature Member=Component MLX4 MLX90614
+Added Member To Class: ClassName=Temperature Member=Component MLX5 MLX90614
+Added Member To Class: ClassName=Temperature Member=Component MLX6 MLX90614
+Added Member To Class: ClassName=Temperature Member=Component MLX7 MLX90614
+Added Member To Class: ClassName=Temperature Member=Component MLX8 MLX90614

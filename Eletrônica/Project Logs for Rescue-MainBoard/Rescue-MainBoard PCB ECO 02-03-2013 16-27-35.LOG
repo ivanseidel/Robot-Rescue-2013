@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=BUSY Pin=U4-12
+Removed Pin From Net: NetName=GND Pin=U8-1
+Removed Pin From Net: NetName=VIN Pin=U8-3
+Removed Member From Class: ClassName=Power Supply Member=C15
+Removed Member From Class: ClassName=Power Supply Member=U8
+Added Component: Designator=I1(HDR1X4)
+Added Component: Designator=I2(HDR1X4)
+Added Component: Designator=I3(HDR1X4)
+Added Component: Designator=I4(HDR1X4)
+Added Component: Designator=I5(HDR1X4)
+Added Component: Designator=I6(HDR1X4)
+Added Component: Designator=I7(HDR1X4)
+Added Component: Designator=I8(HDR1X4)
+Added Component: Designator=I9(HDR1X4)
+Added Component: Designator=I10(HDR1X4)
+Added Component: Designator=R1(RES1206)
+Added Component: Designator=R2(RES1206)
+Added Pin To Net: NetName=+3V3_1 Pin=I1-3
+Added Pin To Net: NetName=GND Pin=I1-4
+Added Pin To Net: NetName=+3V3_1 Pin=I2-3
+Added Pin To Net: NetName=GND Pin=I2-4
+Added Pin To Net: NetName=+3V3_1 Pin=I3-3
+Added Pin To Net: NetName=GND Pin=I3-4
+Added Pin To Net: NetName=+3V3_1 Pin=I4-3
+Added Pin To Net: NetName=GND Pin=I4-4
+Added Pin To Net: NetName=+3V3_1 Pin=I5-3
+Added Pin To Net: NetName=GND Pin=I5-4
+Added Pin To Net: NetName=+3V3_1 Pin=I6-3
+Added Pin To Net: NetName=GND Pin=I6-4
+Added Pin To Net: NetName=+3V3_1 Pin=I7-3
+Added Pin To Net: NetName=GND Pin=I7-4
+Added Pin To Net: NetName=+3V3_1 Pin=I8-3
+Added Pin To Net: NetName=GND Pin=I8-4
+Added Pin To Net: NetName=+3V3_1 Pin=I9-3
+Added Pin To Net: NetName=GND Pin=I9-4
+Added Pin To Net: NetName=+3V3_1 Pin=I10-3
+Added Pin To Net: NetName=GND Pin=I10-4
+Added Pin To Net: NetName=+3V3_1 Pin=R1-2
+Added Pin To Net: NetName=+3V3_1 Pin=R2-2
+Change Net Name : Old Net Name=COM New Net Name=D7
+Change Net Name : Old Net Name=EN New Net Name=D6
+Change Net Name : Old Net Name=S0 New Net Name=D2
+Change Net Name : Old Net Name=S1 New Net Name=D3
+Change Net Name : Old Net Name=S2 New Net Name=D4
+Change Net Name : Old Net Name=S3 New Net Name=D5
+Added Pin To Net: NetName=D8 Pin=U4-12
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=U4-13
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=U4-14
+Added Net: Name=D10
+Added Pin To Net: NetName=SCL Pin=I1-1
+Added Pin To Net: NetName=SCL Pin=I2-1
+Added Pin To Net: NetName=SCL Pin=I3-1
+Added Pin To Net: NetName=SCL Pin=I4-1
+Added Pin To Net: NetName=SCL Pin=I5-1
+Added Pin To Net: NetName=SCL Pin=I6-1
+Added Pin To Net: NetName=SCL Pin=I7-1
+Added Pin To Net: NetName=SCL Pin=I8-1
+Added Pin To Net: NetName=SCL Pin=I9-1
+Added Pin To Net: NetName=SCL Pin=I10-1
+Added Pin To Net: NetName=SCL Pin=R1-1
+Added Pin To Net: NetName=SCL Pin=U4-28
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=I1-2
+Added Pin To Net: NetName=SDA Pin=I2-2
+Added Pin To Net: NetName=SDA Pin=I3-2
+Added Pin To Net: NetName=SDA Pin=I4-2
+Added Pin To Net: NetName=SDA Pin=I5-2
+Added Pin To Net: NetName=SDA Pin=I6-2
+Added Pin To Net: NetName=SDA Pin=I7-2
+Added Pin To Net: NetName=SDA Pin=I8-2
+Added Pin To Net: NetName=SDA Pin=I9-2
+Added Pin To Net: NetName=SDA Pin=I10-2
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=SDA Pin=U4-27
+Added Net: Name=SDA
+Added Member To Class: ClassName=Temperature Member=Component I1 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I2 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I3 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I4 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I5 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I6 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I7 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I8 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I9 Header 4
+Added Member To Class: ClassName=Temperature Member=Component I10 Header 4
+Added Member To Class: ClassName=Temperature Member=Component R1 4K7
+Added Member To Class: ClassName=Temperature Member=Component R2 4K7
+Added Room: Name=Power Supply
+Added Room: Name=Temperature

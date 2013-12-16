@@ -1,0 +1,13 @@
+Added Component: Designator=C15(C0805)
+Added Component: Designator=C16(C0805)
+Added Component: Designator=R46(RES1206)
+Added Component: Designator=R47(RES1206)
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3V3_1 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+3V3_1 Pin=C16-2
+Added Pin To Net: NetName=+3V3_1 Pin=R46-1
+Added Pin To Net: NetName=Net*_SCL1 Pin=R46-2
+Added Pin To Net: NetName=+3V3_1 Pin=R47-1
+Added Pin To Net: NetName=Net*_SDA1 Pin=R47-2
+Added Class: Name=IMU

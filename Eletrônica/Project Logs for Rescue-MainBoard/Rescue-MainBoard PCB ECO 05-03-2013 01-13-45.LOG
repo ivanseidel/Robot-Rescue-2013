@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=Y1 Old Footprint=OSC-2-PIN New Footprint=OSC-2-PIN-TH
+Change Component Comment : Designator=Y1 Old Comment=32.768Khz New Comment=16Mhz
+Added Room: Name=Interface

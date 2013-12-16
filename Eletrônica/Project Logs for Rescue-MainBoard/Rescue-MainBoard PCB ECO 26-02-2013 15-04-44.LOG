@@ -1,0 +1,33 @@
+Added Component: Designator=*(ARDUINO-DUE)
+Added Pin To Net: NetName=+3V3_DUE Pin=*-3V3
+Added Pin To Net: NetName=T_CLK Pin=*-27
+Added Pin To Net: NetName=T_CS Pin=*-28
+Added Pin To Net: NetName=T_DIN Pin=*-29
+Added Pin To Net: NetName=T_OUT Pin=*-30
+Added Pin To Net: NetName=T_IRQ Pin=*-31
+Added Pin To Net: NetName=DB0 Pin=*-33
+Added Pin To Net: NetName=DB1 Pin=*-34
+Added Pin To Net: NetName=DB2 Pin=*-35
+Added Pin To Net: NetName=DB3 Pin=*-36
+Added Pin To Net: NetName=DB4 Pin=*-37
+Added Pin To Net: NetName=DB5 Pin=*-38
+Added Pin To Net: NetName=DB6 Pin=*-39
+Added Pin To Net: NetName=DB7 Pin=*-40
+Added Pin To Net: NetName=LCD_RS Pin=*-41
+Added Pin To Net: NetName=LCD_WR Pin=*-42
+Added Pin To Net: NetName=LCD_CS Pin=*-43
+Added Pin To Net: NetName=DB15 Pin=*-44
+Added Pin To Net: NetName=DB14 Pin=*-45
+Added Pin To Net: NetName=DB13 Pin=*-46
+Added Pin To Net: NetName=DB12 Pin=*-47
+Added Pin To Net: NetName=DB11 Pin=*-48
+Added Pin To Net: NetName=DB10 Pin=*-49
+Added Pin To Net: NetName=DB9 Pin=*-50
+Added Pin To Net: NetName=DB8 Pin=*-51
+Added Pin To Net: NetName=Net*_52 Pin=*-52
+Added Pin To Net: NetName=LCD_RESET Pin=*-53
+Added Pin To Net: NetName=GND Pin=*-GND1
+Added Pin To Net: NetName=Net*_RESET Pin=*-RESET
+Added Pin To Net: NetName=Net*_RESET Pin=*-RESET
+Added Pin To Net: NetName=Net*_VIN Pin=*-VIN
+Added Member To Class: ClassName=Core Member=Component * ARDUINO DUE

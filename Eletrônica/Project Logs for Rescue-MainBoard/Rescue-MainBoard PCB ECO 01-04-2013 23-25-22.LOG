@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=* Old Footprint= New Footprint=ARDUINO-DUE
+Added Pin To Net: NetName=GND Pin=*-GND2
+Added Pin To Net: NetName=GND Pin=*-GND3

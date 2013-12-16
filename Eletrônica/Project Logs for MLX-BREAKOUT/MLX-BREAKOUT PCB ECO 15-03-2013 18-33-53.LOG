@@ -1,0 +1,6 @@
+Added Component: Designator=P2(HDR1X4)
+Added Pin To Net: NetName=SCL Pin=P2-1
+Added Pin To Net: NetName=SDA Pin=P2-2
+Added Pin To Net: NetName=NetC1_2 Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Member To Class: ClassName=MLX Member=Component P2 Header 4

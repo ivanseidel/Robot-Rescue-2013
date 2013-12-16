@@ -1,0 +1,41 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Rescue-MainBoard.PrjPCB|ReportField=ProjectFullPath~C:\Users\Ivan\Dropbox\Emerotecos\2013\RescueB - Holanda\Eletrônica\Rescue-MainBoard.PrjPCB|ReportField=Title~Bill of Materials For Project [Rescue-MainBoard.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~132|ReportField=ReportTime~19:57:39|ReportField=ReportDate~03/04/2013|ReportField=ReportDateTime~03/04/2013 19:57:39|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~03/04/2013|ReportField=CurrentTime~19:56:03|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Ivan\Dropbox\Emerotecos\2013\RescueB - Holanda\Eletrônica\General.SchDoc|ReportField=DocumentName~General.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~02/04/2013|ReportField=Organization~|ReportField=ProjectName~Rescue-MainBoard.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~3|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=PageSetup~Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4 (210 x 297 mm)|PrintScaleMode=1|ReportField=DataSourceFileName~Rescue-MainBoard.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Ivan\Dropbox\Emerotecos\2013\RescueB - Holanda\Eletrônica\Rescue-MainBoard.PrjPCB
+ARDUINO DUE|||ARDUINO-DUE|ARDUINO DUE|1
+LED||3V3_1, 3V3_DUE, 5V_1, L1, L2, L3, L4, L5, L6, L7, L8|LED0805|LED|11
+Buzzer|Buzzer|BZ1|BUZZER|BUZZER|1
+0.1uF|Capacitor (Semiconductor SIM Model)|C1, C6, C7, C8, C15|C0805|Cap Semi|5
+2.2nF|Capacitor (Semiconductor SIM Model)|C2|C0805|Cap Semi|1
+100pF|Capacitor (Semiconductor SIM Model)|C3, C4, C5, C11|C0805|Cap Semi|4
+22pF|Capacitor (Semiconductor SIM Model)|C9, C10|C0805|Cap Semi|2
+10uF|Capacitor (Semiconductor SIM Model)|C12, C13, C17, C18|C1206|Cap Semi|4
+470uF|Aluminum Electrolytic Capacitor, Radial Style with Long Leads: 100uF, 63V|C14|CAPPR3.5-8X11.5|EKA00PB310J00|1
+10nF|Capacitor (Semiconductor SIM Model)|C16|C0805|Cap Semi|1
+Cap Semi|Capacitor (Semiconductor SIM Model)|C19, C20|6-0805_N|Cap Semi|2
+1N4004||D1, D2|DIODESMA|DIODE|2
+5.0" LCD||LCD1|TFT LCD 5.0 INCHES|TFT LCD 5.0 INCHES|1
+mbed LPC1768||M1|DIP40-LARGE|mbed LPC1768|1
+MLX90614||MLX1, MLX2, MLX3, MLX4, MLX5, MLX6, MLX7, MLX8, MLX9, MLX10|MLX-BREAKOUT|MLX-BREAKOUT|10
+Header 3H|Header, 3-Pin, Right Angle|P1|HDR1X3H|Header 3H|1
+JST PH 2||P2, P3, P5, P23, P24, P25|B2B-PH-K|JST PH 2|6
+10K||P4|TRIMPOT-3296W|TRIMPOT|1
+Header 3|Header, 3-Pin|P6|HDR1X3|Header 3|1
+Header 6|Header, 6-Pin|P7|HDR1X6|Header 6|1
+JST PH 6||P8, P9, P10, P11|B6B-PH-K|JST PH 6|4
+JST PH 3||P12, P13, P14, P15, P16, P17, P18, P19|B3B-PH-K|JST PH 3|8
+JST PH 4||P20, P21, P22, P27|B4B-PH-K|JST PH 4|4
+Header 3X2|Header, 3-Pin, Dual row|P26|HDR2X3|Header 3X2|1
+BSS138|N-Channel Enhancement Mode Vertical DMOS FET|Q1, Q2, Q3, Q4|SOT23|BSS138|4
+10K||R1, R2, R5, R6, R9, R10, R12, R20, R21, R24, R32, R34, R36, R38, R40, R42, R44, R46, R47, R49|RES1206|RES|20
+100K||R3, R4|RES1206|RES|2
+2K2||R7, R11, R33, R35, R37, R39, R41, R43, R45|RES1206|RES|9
+330R||R8, R13, R14, R15, R16, R17, R18, R19, R30, R48|RES1206|RES|10
+10R||R22|RES1206|RES|1
+1K||R31|RES1206|RES|1
+PUSH BUTTON||SW1, SW2|PUSH-BUTTON 5,2X1,6MM|PUSH BUTTON|2
+MPU-9150|InveSense MPU-9150 IMU 9 axles|U1|LGA-24|MPU-9150|1
+LM555CM|Timer, 8-pin Narrow SOIC|U2|M08A_N|LM555CM|1
+LM358D|Dual Low-Power Operational Amplifier|U3|751-02_N|LM358D|1
+ATmega328-AU|8-bit AVR Microcontroller, 32KB Flash, 1KB EEPROM, 2KB SRAM, 32-pin TQFP, Industrial Grade (-40°C to 85°C)|U4|32A_N|ATmega328-AU|1
+LM1117IMPX-5.0/NOPB|800mA Low-Dropout Linear Regulator, 4-pin SOT-223, Pb-Free|U5|MP04A_N|LM1117IMPX-5.0/NOPB|1
+LM1117IMPX-3.3/NOPB|800mA Low-Dropout Linear Regulator, 4-pin SOT-223, Pb-Free|U6|MP04A_N|LM1117IMPX-3.3/NOPB|1
+TB6612FNG|H BRIDGE|U7, U8|TB6612FNG|TB6612FNG|2
+16Mhz|2 pin oscilator|Y1|OSC-2-PIN-TH|OSC-2-PIN|1

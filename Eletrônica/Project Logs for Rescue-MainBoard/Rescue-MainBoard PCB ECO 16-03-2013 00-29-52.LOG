@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=Net*_A1 Pin=P12-1
+Removed Pin From Net: NetName=Net*_A2 Pin=P13-1
+Removed Pin From Net: NetName=Net*_A3 Pin=P14-1
+Removed Pin From Net: NetName=Net*_A4 Pin=P15-1
+Removed Pin From Net: NetName=Net*_A9 Pin=P16-1
+Removed Pin From Net: NetName=Net*_A8 Pin=P17-1
+Removed Pin From Net: NetName=Net*_A7 Pin=P18-1
+Removed Pin From Net: NetName=Net*_A6 Pin=P19-1
+Removed Pin From Net: NetName=Net*_A0 Pin=P20-2
+Removed Pin From Net: NetName=Net*_A5 Pin=P21-2
+Added Pin To Net: NetName=Net*_A9 Pin=P12-1
+Added Pin To Net: NetName=Net*_A8 Pin=P13-1
+Added Pin To Net: NetName=Net*_A1 Pin=P14-1
+Added Pin To Net: NetName=Net*_A0 Pin=P15-1
+Added Pin To Net: NetName=Net*_A7 Pin=P16-1
+Added Pin To Net: NetName=Net*_A6 Pin=P17-1
+Added Pin To Net: NetName=Net*_A5 Pin=P18-1
+Added Pin To Net: NetName=Net*_A2 Pin=P19-1
+Added Pin To Net: NetName=Net*_A3 Pin=P20-2
+Added Pin To Net: NetName=Net*_A4 Pin=P21-2
+Added Pin To Net: NetName=LIGHT_LED Pin=*-11
+Added Pin To Net: NetName=LIGHT_LED Pin=P20-1
+Added Pin To Net: NetName=LIGHT_LED Pin=P21-1
+Added Net: Name=LIGHT_LED

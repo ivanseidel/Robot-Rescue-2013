@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=RX Pin=*-18
+Removed Pin From Net: NetName=RX Pin=M1-27
+Change Component Designator: OldDesignator=3V3 PWR NewDesignator=3V3_1
+Change Component Designator: OldDesignator=5V PWR NewDesignator=5V_1
+Change Component Designator: OldDesignator=BUSY NewDesignator=L2
+Change Component Designator: OldDesignator=PAUSE NewDesignator=L1
+Change Component Designator: OldDesignator=STATUS NewDesignator=L7
+Added Pin To Net: NetName=RX Pin=*-18
+Added Pin To Net: NetName=RX Pin=M1-27
+Added Pin To Net: NetName=BUSY Pin=U4-24
+Added Room: Name=Bluetooth

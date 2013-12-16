@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=ENABLE Pin=*-7
+Added Component: Designator=MLX9(MLX-BREAKOUT)
+Added Component: Designator=MLX10(MLX-BREAKOUT)
+Added Pin To Net: NetName=ENABLE Pin=*-10
+Added Pin To Net: NetName=GND Pin=MLX9-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX9-2
+Added Pin To Net: NetName=SDA Pin=MLX9-3
+Added Pin To Net: NetName=SCL Pin=MLX9-4
+Added Pin To Net: NetName=GND Pin=MLX10-1
+Added Pin To Net: NetName=+3V3_1 Pin=MLX10-2
+Added Pin To Net: NetName=SDA Pin=MLX10-3
+Added Pin To Net: NetName=SCL Pin=MLX10-4
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=U4-11
+Added Net: Name=Net*_2
+Added Pin To Net: NetName=Net*_3 Pin=*-3
+Added Pin To Net: NetName=Net*_3 Pin=U4-10
+Added Net: Name=Net*_3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=U4-9
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=U4-2
+Added Net: Name=Net*_5
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=U4-1
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=Net*_7 Pin=*-7
+Added Pin To Net: NetName=Net*_7 Pin=U4-32
+Added Net: Name=Net*_7
+Added Member To Class: ClassName=Temperature Member=Component MLX9 MLX90614
+Added Member To Class: ClassName=Temperature Member=Component MLX10 MLX90614

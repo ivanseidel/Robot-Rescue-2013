@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=Net*_A0 Pin=P20-1
+Removed Pin From Net: NetName=GND Pin=P20-2
+Removed Pin From Net: NetName=+3V3_1 Pin=P20-3
+Removed Pin From Net: NetName=Net*_A5 Pin=P21-1
+Removed Pin From Net: NetName=GND Pin=P21-2
+Removed Pin From Net: NetName=+3V3_1 Pin=P21-3
+Change Component DesignItemId : Designator=P20 Old DesignItemId=JST PH 3 New DesignItemId=JST PH 4
+Change Component DesignItemId : Designator=P21 Old DesignItemId=JST PH 3 New DesignItemId=JST PH 4
+Change Component Footprint: Designator=P20 Old Footprint=B3B-PH-K New Footprint=B4B-PH-K
+Change Component Footprint: Designator=P21 Old Footprint=B3B-PH-K New Footprint=B4B-PH-K
+Change Component Comment : Designator=P20 Old Comment=JST PH 3 New Comment=JST PH 4
+Change Component Comment : Designator=P21 Old Comment=JST PH 3 New Comment=JST PH 4
+Added Pin To Net: NetName=Net*_A0 Pin=P20-2
+Added Pin To Net: NetName=GND Pin=P20-3
+Added Pin To Net: NetName=+3V3_1 Pin=P20-4
+Added Pin To Net: NetName=Net*_A5 Pin=P21-2
+Added Pin To Net: NetName=GND Pin=P21-3
+Added Pin To Net: NetName=+3V3_1 Pin=P21-4
+Added Pin To Net: NetName=NetP20_1 Pin=P20-1
+Added Pin To Net: NetName=NetP20_1 Pin=P21-1
+Added Net: Name=NetP20_1
+Added Member To Class: ClassName=Power Supply Member=Component R45 2K2

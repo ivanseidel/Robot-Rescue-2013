@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=STBY Pin=M1-21
+Removed Pin From Net: NetName=M2_PWM Pin=M1-23
+Removed Pin From Net: NetName=M1_PWM Pin=M1-24
+Removed Pin From Net: NetName=M4_PWM Pin=M1-25
+Removed Pin From Net: NetName=M3_PWM Pin=M1-26
+Added Pin To Net: NetName=M2_PWM Pin=M1-21
+Added Pin To Net: NetName=M1_PWM Pin=M1-22
+Added Pin To Net: NetName=M4_PWM Pin=M1-23
+Added Pin To Net: NetName=M3_PWM Pin=M1-24
+Added Pin To Net: NetName=M4_DIR2 Pin=M1-25
+Added Pin To Net: NetName=M4_DIR1 Pin=M1-26

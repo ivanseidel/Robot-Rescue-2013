@@ -1,0 +1,8 @@
+Added Component: Designator=P12(HDR1X3)
+Added Component: Designator=P13(HDR1X3)
+Added Pin To Net: NetName=SCL/RX Pin=P12-2
+Added Net: Name=SCL/RX
+Added Pin To Net: NetName=SDA/TX Pin=P13-2
+Added Net: Name=SDA/TX
+Added Member To Class: ClassName=Speed Controller Member=Component P12 Header 3
+Added Member To Class: ClassName=Speed Controller Member=Component P13 Header 3

@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=RX Pin=M1-27
+Added Pin To Net: NetName=RX Pin=*-16
+Added Pin To Net: NetName=RX Pin=*-18
+Added Pin To Net: NetName=TX Pin=*-19
+Added Pin To Net: NetName=NetC4_2 Pin=*-52
+Added Pin To Net: NetName=RX Pin=M1-27
+Added Pin To Net: NetName=RX Pin=P7-4
+Added Pin To Net: NetName=RX Pin=U4-30
+Change Net Name : Old Net Name=NetC4_2 New Net Name=Net*_52
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Pin To Net: NetName=Net*_0 Pin=*-0
+Added Net: Name=Net*_0
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=P22-4
+Added Net: Name=Net*_14
+Added Pin To Net: NetName=Net*_15 Pin=*-15
+Added Pin To Net: NetName=Net*_15 Pin=P22-3
+Added Net: Name=Net*_15
+Added Pin To Net: NetName=Net*_17 Pin=*-17
+Added Pin To Net: NetName=Net*_17 Pin=R10-1
+Added Pin To Net: NetName=Net*_17 Pin=R11-2
+Added Net: Name=Net*_17
+Added Pin To Net: NetName=Net*_20 Pin=*-20
+Added Net: Name=Net*_20
+Added Pin To Net: NetName=Net*_21 Pin=*-21
+Added Net: Name=Net*_21
+Added Pin To Net: NetName=Net*_22 Pin=*-22
+Added Net: Name=Net*_22
+Added Pin To Net: NetName=Net*_23 Pin=*-23
+Added Net: Name=Net*_23
+Added Pin To Net: NetName=Net*_24 Pin=*-24
+Added Net: Name=Net*_24
+Added Pin To Net: NetName=Net*_25 Pin=*-25
+Added Net: Name=Net*_25
+Added Pin To Net: NetName=Net*_A0 Pin=*-A0
+Added Pin To Net: NetName=Net*_A0 Pin=P19-1
+Added Net: Name=Net*_A0
+Added Pin To Net: NetName=Net*_A1 Pin=*-A1
+Added Pin To Net: NetName=Net*_A1 Pin=P18-1
+Added Net: Name=Net*_A1
+Added Pin To Net: NetName=Net*_A2 Pin=*-A2
+Added Pin To Net: NetName=Net*_A2 Pin=P17-1
+Added Net: Name=Net*_A2
+Added Pin To Net: NetName=Net*_A3 Pin=*-A3
+Added Pin To Net: NetName=Net*_A3 Pin=P16-1
+Added Net: Name=Net*_A3
+Added Pin To Net: NetName=Net*_A4 Pin=*-A4
+Added Pin To Net: NetName=Net*_A4 Pin=P15-1
+Added Net: Name=Net*_A4
+Added Pin To Net: NetName=Net*_A5 Pin=*-A5
+Added Pin To Net: NetName=Net*_A5 Pin=P14-1
+Added Net: Name=Net*_A5
+Added Pin To Net: NetName=Net*_A6 Pin=*-A6
+Added Pin To Net: NetName=Net*_A6 Pin=P13-1
+Added Net: Name=Net*_A6
+Added Pin To Net: NetName=Net*_A7 Pin=*-A7
+Added Pin To Net: NetName=Net*_A7 Pin=P12-1
+Added Net: Name=Net*_A7
+Added Pin To Net: NetName=Net*_A8 Pin=*-A8
+Added Pin To Net: NetName=Net*_A8 Pin=P20-1
+Added Net: Name=Net*_A8
+Added Pin To Net: NetName=Net*_A9 Pin=*-A9
+Added Pin To Net: NetName=Net*_A9 Pin=P21-1
+Added Net: Name=Net*_A9
+Added Pin To Net: NetName=Net*_SCL1 Pin=*-SCL1
+Added Pin To Net: NetName=Net*_SCL1 Pin=U1-23
+Added Net: Name=Net*_SCL1
+Added Pin To Net: NetName=Net*_SDA1 Pin=*-SDA1
+Added Pin To Net: NetName=Net*_SDA1 Pin=U1-24
+Added Net: Name=Net*_SDA1
+Added Room: Name=Bluetooth

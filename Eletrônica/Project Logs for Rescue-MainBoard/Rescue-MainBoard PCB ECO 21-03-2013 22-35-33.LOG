@@ -1,0 +1,14 @@
+Change Component Comment : Designator=R48 Old Comment=1K New Comment=330R
+Added Component: Designator=BZ1(BUZZER)
+Added Component: Designator=Q3(SOT23)
+Added Component: Designator=R49(RES1206)
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=R49-2
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q3-1
+Added Net: Name=NetBZ1_2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R49-1
+Added Net: Name=NetQ3_3
+Added Member To Class: ClassName=Interface Member=Component BZ1 Buzzer
+Added Member To Class: ClassName=Interface Member=Component Q3 BSS138
+Added Member To Class: ClassName=Interface Member=Component R49 10K

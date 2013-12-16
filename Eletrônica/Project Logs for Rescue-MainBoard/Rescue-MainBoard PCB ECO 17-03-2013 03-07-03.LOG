@@ -1,0 +1,4 @@
+Added Component: Designator=C18(C1206)
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=VIN Pin=C18-2
+Added Member To Class: ClassName=Power Supply Member=Component C18 10uF

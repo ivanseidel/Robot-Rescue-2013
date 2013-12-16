@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=M1_DIR1 Pin=R22-2
+Removed Pin From Net: NetName=M3_DIR1 Pin=R23-2
+Removed Pin From Net: NetName=M1_DIR2 Pin=R24-2
+Removed Pin From Net: NetName=M3_DIR2 Pin=R25-2
+Removed Pin From Net: NetName=M2_DIR1 Pin=R26-2
+Removed Pin From Net: NetName=M4_DIR1 Pin=R27-2
+Removed Pin From Net: NetName=M2_DIR2 Pin=R28-2
+Removed Pin From Net: NetName=M4_DIR2 Pin=R29-2
+Removed Member From Class: ClassName=Speed Controller Member=R22
+Removed Member From Class: ClassName=Speed Controller Member=R23
+Removed Member From Class: ClassName=Speed Controller Member=R24
+Removed Member From Class: ClassName=Speed Controller Member=R25
+Removed Member From Class: ClassName=Speed Controller Member=R26
+Removed Member From Class: ClassName=Speed Controller Member=R27
+Removed Member From Class: ClassName=Speed Controller Member=R28
+Removed Member From Class: ClassName=Speed Controller Member=R29
+Added Pin To Net: NetName=M2_DIR2 Pin=U7-11
+Added Pin To Net: NetName=M2_DIR1 Pin=U7-12
+Added Pin To Net: NetName=M1_DIR2 Pin=U7-14
+Added Pin To Net: NetName=M1_DIR1 Pin=U7-15
+Added Pin To Net: NetName=M4_DIR2 Pin=U8-11
+Added Pin To Net: NetName=M4_DIR1 Pin=U8-12
+Added Pin To Net: NetName=M3_DIR2 Pin=U8-14
+Added Pin To Net: NetName=M3_DIR1 Pin=U8-15

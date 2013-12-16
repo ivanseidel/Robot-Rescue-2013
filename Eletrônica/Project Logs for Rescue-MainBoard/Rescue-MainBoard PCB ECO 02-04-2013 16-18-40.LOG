@@ -1,0 +1,9 @@
+Added Component: Designator=IMU_INT(TP1)
+Added Component: Designator=IMU_SCL(TP1)
+Added Component: Designator=IMU_SDA(TP1)
+Added Pin To Net: NetName=Net*_32 Pin=IMU_INT-1
+Added Pin To Net: NetName=Net*_SCL1 Pin=IMU_SCL-1
+Added Pin To Net: NetName=Net*_SDA1 Pin=IMU_SDA-1
+Added Member To Class: ClassName=IMU Member=Component IMU_INT Test Point
+Added Member To Class: ClassName=IMU Member=Component IMU_SCL Test Point
+Added Member To Class: ClassName=IMU Member=Component IMU_SDA Test Point

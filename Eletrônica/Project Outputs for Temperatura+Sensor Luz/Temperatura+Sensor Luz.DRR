@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Temperatura+Sensor Luz.PcbDoc   02/04/2013  19:40:34
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Temperatura+Sensor Luz.TXT
+EIA File   : Temperatura+Sensor Luz.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          13               4.14 Inch (105.09 mm)
+T2        24mil (0.6096mm)         Round          20               4.71 Inch (119.56 mm)
+T3        28mil (0.7112mm)         Round          8                1.18 Inch (29.90 mm)
+T4        35mil (0.889mm)          Round          20               4.88 Inch (123.91 mm)
+T5        79mil (2.0066mm)         Round          14               6.24 Inch (158.48 mm)
+---------------------------------------------------------------------------
+Totals                                            75               21.14 Inch (536.94 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=Q3-3
+Added Pin To Net: NetName=Net*_12 Pin=R49-1
+Added Net: Name=Net*_12

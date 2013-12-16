@@ -1,0 +1,6 @@
+Added Component: Designator=MBED.RX(TP1)
+Added Component: Designator=MBED.TX(TP1)
+Added Pin To Net: NetName=UART1.RX Pin=MBED.RX-1
+Added Pin To Net: NetName=UART1.TX Pin=MBED.TX-1
+Added Member To Class: ClassName=Speed Controller Member=Component MBED.RX Test Point
+Added Member To Class: ClassName=Speed Controller Member=Component MBED.TX Test Point

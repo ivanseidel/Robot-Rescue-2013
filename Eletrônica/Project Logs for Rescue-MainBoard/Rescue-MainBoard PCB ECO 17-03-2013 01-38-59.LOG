@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=C14 Old DesignItemId=Cap Pol1 New DesignItemId=EKA00DC133P00
+Change Component Footprint: Designator=C14 Old Footprint=RB7.6-15 New Footprint=CAPPR5-10X12.5
+Change Component Comment : Designator=C14 Old Comment=Cap Pol1 New Comment=470uF

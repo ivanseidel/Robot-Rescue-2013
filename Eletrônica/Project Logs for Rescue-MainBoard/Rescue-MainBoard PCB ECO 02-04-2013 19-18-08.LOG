@@ -1,0 +1,6 @@
+Added Component: Designator=P27(B4B-PH-K)
+Added Pin To Net: NetName=A2 Pin=P27-1
+Added Pin To Net: NetName=A3 Pin=P27-2
+Added Pin To Net: NetName=A7 Pin=P27-3
+Added Pin To Net: NetName=A0 Pin=P27-4
+Added Member To Class: ClassName=Temperature Member=Component P27 JST PH 4

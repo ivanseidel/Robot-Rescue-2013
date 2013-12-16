@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=D7 Pin=R?-1
+Removed Pin From Net: NetName=Net*_7 Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Added Pin To Net: NetName=D2 Pin=R32-1
+Added Pin To Net: NetName=Net*_7 Pin=R32-2
+Added Pin To Net: NetName=Net*_7 Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R33-2
+Added Pin To Net: NetName=D3 Pin=R34-1
+Added Pin To Net: NetName=Net*_6 Pin=R34-2
+Added Pin To Net: NetName=Net*_6 Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=D4 Pin=R36-1
+Added Pin To Net: NetName=Net*_5 Pin=R36-2
+Added Pin To Net: NetName=Net*_5 Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R37-2
+Added Pin To Net: NetName=D5 Pin=R38-1
+Added Pin To Net: NetName=Net*_4 Pin=R38-2
+Added Pin To Net: NetName=Net*_4 Pin=R39-1
+Added Pin To Net: NetName=GND Pin=R39-2
+Added Pin To Net: NetName=D6 Pin=R40-1
+Added Pin To Net: NetName=Net*_3 Pin=R40-2
+Added Pin To Net: NetName=Net*_3 Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R41-2
+Added Pin To Net: NetName=D7 Pin=R42-1
+Added Pin To Net: NetName=Net*_2 Pin=R42-2
+Added Pin To Net: NetName=Net*_2 Pin=R43-1
+Added Pin To Net: NetName=GND Pin=R43-2
+Added Member To Class: ClassName=Temperature Member=Component R32 1K
+Added Member To Class: ClassName=Temperature Member=Component R33 1K
+Added Member To Class: ClassName=Temperature Member=Component R34 1K
+Added Member To Class: ClassName=Temperature Member=Component R35 1K
+Added Member To Class: ClassName=Temperature Member=Component R36 1K
+Added Member To Class: ClassName=Temperature Member=Component R37 1K
+Added Member To Class: ClassName=Temperature Member=Component R38 1K
+Added Member To Class: ClassName=Temperature Member=Component R39 1K
+Added Member To Class: ClassName=Temperature Member=Component R40 1K
+Added Member To Class: ClassName=Temperature Member=Component R41 1K
+Added Member To Class: ClassName=Temperature Member=Component R43 1K

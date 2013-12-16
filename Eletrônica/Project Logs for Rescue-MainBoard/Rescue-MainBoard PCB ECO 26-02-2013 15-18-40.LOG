@@ -1,0 +1,236 @@
+Added Component: Designator=*(ARDUINO-DUE)
+Added Component: Designator=C1(6-0805_N)
+Added Component: Designator=C2(6-0805_N)
+Added Component: Designator=C3(6-0805_N)
+Added Component: Designator=C4(6-0805_N)
+Added Component: Designator=C5(6-0805_N)
+Added Component: Designator=C6(6-0805_N)
+Added Component: Designator=C7(6-0805_N)
+Added Component: Designator=C8(6-0805_N)
+Added Component: Designator=C9(6-0805_N)
+Added Component: Designator=C10(6-0805_N)
+Added Component: Designator=C11(6-0805_N)
+Added Component: Designator=C12(6-0805_N)
+Added Component: Designator=C13(6-0805_N)
+Added Component: Designator=C15(6-0805_N)
+Added Component: Designator=E1(PIN1)
+Added Component: Designator=L1(LED0805)
+Added Component: Designator=L2(LED0805)
+Added Component: Designator=LCD1(TFT LCD 5.0 INCHES)
+Added Component: Designator=P1(HDR1X3H)
+Added Component: Designator=P3(HDR1X3H)
+Added Component: Designator=P5(HDR1X2)
+Added Component: Designator=P6(HDR1X3)
+Added Component: Designator=P7(HDR1X6)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=R13(RES1206)
+Added Component: Designator=U2(M08A_L)
+Added Component: Designator=U3(751-02_N)
+Added Component: Designator=U4(32A_N)
+Added Component: Designator=U5(MP04A_N)
+Added Component: Designator=U6(MP04A_N)
+Added Component: Designator=U8(MP04A_N)
+Added Pin To Net: NetName=+3V3_DUE Pin=*-3V3
+Added Pin To Net: NetName=T_CLK Pin=*-27
+Added Pin To Net: NetName=T_CS Pin=*-28
+Added Pin To Net: NetName=T_DIN Pin=*-29
+Added Pin To Net: NetName=T_OUT Pin=*-30
+Added Pin To Net: NetName=T_IRQ Pin=*-31
+Added Pin To Net: NetName=DB0 Pin=*-33
+Added Pin To Net: NetName=DB1 Pin=*-34
+Added Pin To Net: NetName=DB2 Pin=*-35
+Added Pin To Net: NetName=DB3 Pin=*-36
+Added Pin To Net: NetName=DB4 Pin=*-37
+Added Pin To Net: NetName=DB5 Pin=*-38
+Added Pin To Net: NetName=DB6 Pin=*-39
+Added Pin To Net: NetName=DB7 Pin=*-40
+Added Pin To Net: NetName=LCD_RS Pin=*-41
+Added Pin To Net: NetName=LCD_WR Pin=*-42
+Added Pin To Net: NetName=LCD_CS Pin=*-43
+Added Pin To Net: NetName=DB15 Pin=*-44
+Added Pin To Net: NetName=DB14 Pin=*-45
+Added Pin To Net: NetName=DB13 Pin=*-46
+Added Pin To Net: NetName=DB12 Pin=*-47
+Added Pin To Net: NetName=DB11 Pin=*-48
+Added Pin To Net: NetName=DB10 Pin=*-49
+Added Pin To Net: NetName=DB9 Pin=*-50
+Added Pin To Net: NetName=DB8 Pin=*-51
+Added Pin To Net: NetName=Net*_52 Pin=*-52
+Added Pin To Net: NetName=LCD_RESET Pin=*-53
+Added Pin To Net: NetName=GND Pin=*-GND1
+Added Pin To Net: NetName=Net*_RESET Pin=*-RESET
+Added Pin To Net: NetName=Net*_RESET Pin=*-RESET
+Added Pin To Net: NetName=Net*_VIN Pin=*-VIN
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=PAUSE Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=PAUSE_CAPACITIVE Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=RESET Pin=C7-1
+Added Pin To Net: NetName=DTR Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5V_1 Pin=C8-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+5V_1 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+5V_1 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3V3_1 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+5V_IR Pin=C15-2
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=NetL2_1 Pin=L2-1
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=+3V3_DUE Pin=LCD1-2
+Added Pin To Net: NetName=LCD_RS Pin=LCD1-4
+Added Pin To Net: NetName=LCD_WR Pin=LCD1-5
+Added Pin To Net: NetName=+3V3_DUE Pin=LCD1-6
+Added Pin To Net: NetName=DB8 Pin=LCD1-7
+Added Pin To Net: NetName=DB9 Pin=LCD1-8
+Added Pin To Net: NetName=DB10 Pin=LCD1-9
+Added Pin To Net: NetName=DB11 Pin=LCD1-10
+Added Pin To Net: NetName=DB12 Pin=LCD1-11
+Added Pin To Net: NetName=DB13 Pin=LCD1-12
+Added Pin To Net: NetName=DB14 Pin=LCD1-13
+Added Pin To Net: NetName=DB15 Pin=LCD1-14
+Added Pin To Net: NetName=LCD_CS Pin=LCD1-15
+Added Pin To Net: NetName=LCD_RESET Pin=LCD1-17
+Added Pin To Net: NetName=DB0 Pin=LCD1-21
+Added Pin To Net: NetName=DB1 Pin=LCD1-22
+Added Pin To Net: NetName=DB2 Pin=LCD1-23
+Added Pin To Net: NetName=DB3 Pin=LCD1-24
+Added Pin To Net: NetName=DB4 Pin=LCD1-25
+Added Pin To Net: NetName=DB5 Pin=LCD1-26
+Added Pin To Net: NetName=DB6 Pin=LCD1-27
+Added Pin To Net: NetName=DB7 Pin=LCD1-28
+Added Pin To Net: NetName=T_CLK Pin=LCD1-29
+Added Pin To Net: NetName=T_CS Pin=LCD1-30
+Added Pin To Net: NetName=T_DIN Pin=LCD1-31
+Added Pin To Net: NetName=T_OUT Pin=LCD1-33
+Added Pin To Net: NetName=T_IRQ Pin=LCD1-34
+Added Pin To Net: NetName=+3V3_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=+5V_1 Pin=P5-1
+Added Pin To Net: NetName=PAUSE_DIGITAL Pin=P5-2
+Added Pin To Net: NetName=PAUSE_CAPACITIVE Pin=P6-1
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=PAUSE_DIGITAL Pin=P6-3
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=RX Pin=P7-4
+Added Pin To Net: NetName=TX Pin=P7-5
+Added Pin To Net: NetName=DTR Pin=P7-6
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetL2_1 Pin=R13-1
+Added Pin To Net: NetName=BUSY Pin=R13-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetE1_1 Pin=U2-2
+Added Pin To Net: NetName=NetR5_2 Pin=U2-3
+Added Pin To Net: NetName=+5V_1 Pin=U2-4
+Added Pin To Net: NetName=NetC3_2 Pin=U2-5
+Added Pin To Net: NetName=NetE1_1 Pin=U2-6
+Added Pin To Net: NetName=NetR3_1 Pin=U2-7
+Added Pin To Net: NetName=+5V_1 Pin=U2-8
+Added Pin To Net: NetName=NetR6_2 Pin=U3-1
+Added Pin To Net: NetName=NetP6_2 Pin=U3-2
+Added Pin To Net: NetName=NetP4_2 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=+5V_1 Pin=U3-8
+Added Pin To Net: NetName=S1 Pin=U4-1
+Added Pin To Net: NetName=S2 Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=+5V_1 Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=+5V_1 Pin=U4-6
+Added Pin To Net: NetName=NetC9_1 Pin=U4-7
+Added Pin To Net: NetName=NetC10_1 Pin=U4-8
+Added Pin To Net: NetName=S3 Pin=U4-9
+Added Pin To Net: NetName=EN Pin=U4-10
+Added Pin To Net: NetName=COM Pin=U4-11
+Added Pin To Net: NetName=BUSY Pin=U4-12
+Added Pin To Net: NetName=MOSI Pin=U4-15
+Added Pin To Net: NetName=MISO Pin=U4-16
+Added Pin To Net: NetName=SCK Pin=U4-17
+Added Pin To Net: NetName=+5V_1 Pin=U4-18
+Added Pin To Net: NetName=A6 Pin=U4-19
+Added Pin To Net: NetName=NetC6_2 Pin=U4-20
+Added Pin To Net: NetName=GND Pin=U4-21
+Added Pin To Net: NetName=A7 Pin=U4-22
+Added Pin To Net: NetName=A0 Pin=U4-23
+Added Pin To Net: NetName=A1 Pin=U4-24
+Added Pin To Net: NetName=A2 Pin=U4-25
+Added Pin To Net: NetName=A3 Pin=U4-26
+Added Pin To Net: NetName=A4 Pin=U4-27
+Added Pin To Net: NetName=A5 Pin=U4-28
+Added Pin To Net: NetName=RESET Pin=U4-29
+Added Pin To Net: NetName=RX Pin=U4-30
+Added Pin To Net: NetName=TX Pin=U4-31
+Added Pin To Net: NetName=S0 Pin=U4-32
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=+5V_1 Pin=U5-2
+Added Pin To Net: NetName=VIN Pin=U5-3
+Added Pin To Net: NetName=+5V_1 Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=+3V3_1 Pin=U6-2
+Added Pin To Net: NetName=VIN Pin=U6-3
+Added Pin To Net: NetName=+3V3_1 Pin=U6-4
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=+5V_IR Pin=U8-2
+Added Pin To Net: NetName=VIN Pin=U8-3
+Added Pin To Net: NetName=+5V_IR Pin=U8-4
+Added Member To Class: ClassName=Core Member=Component * ARDUINO DUE
+Added Member To Class: ClassName=IMU Member=Component C1 Cap Semi
+Added Member To Class: ClassName=IMU Member=Component C2 Cap Semi
+Added Member To Class: ClassName=Interface Member=Component C3 Cap Semi
+Added Member To Class: ClassName=Interface Member=Component C4 Cap Semi
+Added Member To Class: ClassName=Interface Member=Component C5 Cap Semi
+Added Member To Class: ClassName=Temperature Member=Component C6 Cap Semi
+Added Member To Class: ClassName=Temperature Member=Component C7 Cap Semi
+Added Member To Class: ClassName=Temperature Member=Component C8 Cap Semi
+Added Member To Class: ClassName=Temperature Member=Component C9 Cap Semi
+Added Member To Class: ClassName=Temperature Member=Component C10 Cap Semi
+Added Member To Class: ClassName=Interface Member=Component C11 Cap Semi
+Added Member To Class: ClassName=Power Supply Member=Component C12 Cap Semi
+Added Member To Class: ClassName=Power Supply Member=Component C13 Cap Semi
+Added Member To Class: ClassName=Power Supply Member=Component C15 Cap Semi
+Added Member To Class: ClassName=Interface Member=Component E1 Antenna
+Added Member To Class: ClassName=Interface Member=Component L1 LED
+Added Member To Class: ClassName=Temperature Member=Component L2 LED
+Added Member To Class: ClassName=LCD Member=Component LCD1 5.0" LCD
+Added Member To Class: ClassName=IMU Member=Component P1 Header 3H
+Added Member To Class: ClassName=Bluetooth Member=Component P3 Header 3H
+Added Member To Class: ClassName=Interface Member=Component P5 Header 2
+Added Member To Class: ClassName=Interface Member=Component P6 Header 3
+Added Member To Class: ClassName=Temperature Member=Component P7 FTDI
+Added Member To Class: ClassName=Bluetooth Member=Component Q1 BSS138
+Added Member To Class: ClassName=Temperature Member=Component R13 330R
+Added Member To Class: ClassName=Interface Member=Component U2 LM555CM
+Added Member To Class: ClassName=Interface Member=Component U3 LM358D
+Added Member To Class: ClassName=Temperature Member=Component U4 ATmega328-AU
+Added Member To Class: ClassName=Power Supply Member=Component U5 LM1117IMPX-5.0/NOPB
+Added Member To Class: ClassName=Power Supply Member=Component U6 LM1117IMPX-3.3/NOPB
+Added Member To Class: ClassName=Power Supply Member=Component U8 LM1117IMPX-5.0/NOPB
+Added Room: Name=Bluetooth
+Added Room: Name=IMU
+Added Room: Name=Interface
+Added Room: Name=Power Supply
+Added Room: Name=Temperature

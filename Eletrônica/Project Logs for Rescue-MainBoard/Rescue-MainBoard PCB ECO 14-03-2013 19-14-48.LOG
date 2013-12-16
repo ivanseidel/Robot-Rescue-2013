@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=D2 Pin=R32-1
+Removed Pin From Net: NetName=D3 Pin=R34-1
+Removed Pin From Net: NetName=D4 Pin=R36-1
+Removed Pin From Net: NetName=D5 Pin=R38-1
+Removed Pin From Net: NetName=D6 Pin=R40-1
+Removed Pin From Net: NetName=D7 Pin=R42-1
+Added Pin To Net: NetName=D7 Pin=R32-1
+Added Pin To Net: NetName=D6 Pin=R34-1
+Added Pin To Net: NetName=D5 Pin=R36-1
+Added Member To Class: ClassName=Temperature Member=Component R42 1K

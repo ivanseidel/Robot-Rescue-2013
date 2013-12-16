@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=C12 Old Footprint=C0805 New Footprint=C1206
+Change Component Footprint: Designator=C13 Old Footprint=C0805 New Footprint=C1206
+Change Component Comment : Designator=C1 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C6 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C7 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C8 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C15 Old Comment=Cap Semi New Comment=0.1uF
+Change Component Comment : Designator=C2 Old Comment=Cap Semi New Comment=2.2nF
+Change Component Comment : Designator=C16 Old Comment=Cap Semi New Comment=10nF
+Change Component Comment : Designator=C12 Old Comment=Cap Semi New Comment=10uF
+Change Component Comment : Designator=C13 Old Comment=Cap Semi New Comment=10uF
+Change Component Comment : Designator=C3 Old Comment=Cap Semi New Comment=100pF
+Change Component Comment : Designator=C4 Old Comment=Cap Semi New Comment=100pF
+Change Component Comment : Designator=C5 Old Comment=Cap Semi New Comment=100pF
+Change Component Comment : Designator=C9 Old Comment=Cap Semi New Comment=100pF
+Change Component Comment : Designator=C10 Old Comment=Cap Semi New Comment=100pF
+Change Component Comment : Designator=C11 Old Comment=Cap Semi New Comment=100pF
+Added Component: Designator=C17(C1206)
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=+5V_1 Pin=C17-2
+Added Member To Class: ClassName=Temperature Member=Component C17 10uF

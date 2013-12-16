@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=RX Pin=*-18
+Removed Pin From Net: NetName=RX Pin=M1-27
+Change Net Name : Old Net Name=TX New Net Name=UART1.TX
+Added Pin To Net: NetName=UART1.RX Pin=*-18
+Added Pin To Net: NetName=UART1.RX Pin=M1-27
+Added Net: Name=UART1.RX

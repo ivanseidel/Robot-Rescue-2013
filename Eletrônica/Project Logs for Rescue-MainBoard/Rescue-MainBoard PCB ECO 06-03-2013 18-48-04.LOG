@@ -1,0 +1,108 @@
+Change Component Comment : Designator=R1 Old Comment=4K7 New Comment=1K
+Change Component Comment : Designator=R2 Old Comment=4K7 New Comment=1K
+Change Component Comment : Designator=R20 Old Comment=10K New Comment=1K
+Change Component Comment : Designator=R21 Old Comment=10K New Comment=1K
+Added Component: Designator=P12(B3B-PH-K)
+Added Component: Designator=P13(B3B-PH-K)
+Added Component: Designator=P14(B3B-PH-K)
+Added Component: Designator=P15(B3B-PH-K)
+Added Component: Designator=P16(B3B-PH-K)
+Added Component: Designator=P17(B3B-PH-K)
+Added Component: Designator=P18(B3B-PH-K)
+Added Component: Designator=P19(B3B-PH-K)
+Added Component: Designator=P20(B3B-PH-K)
+Added Component: Designator=R19(RES0805)
+Added Component: Designator=R32(RES0805)
+Added Component: Designator=R33(RES0805)
+Added Component: Designator=R34(RES0805)
+Added Component: Designator=R35(RES0805)
+Added Component: Designator=R36(RES0805)
+Added Component: Designator=R37(RES0805)
+Added Component: Designator=R38(RES0805)
+Added Component: Designator=R39(RES0805)
+Added Component: Designator=R40(RES0805)
+Added Component: Designator=R41(RES0805)
+Added Component: Designator=R42(RES0805)
+Added Component: Designator=R43(RES0805)
+Added Component: Designator=R44(RES0805)
+Added Component: Designator=R45(RES0805)
+Added Component: Designator=R46(RES0805)
+Added Pin To Net: NetName=GND Pin=P12-2
+Added Pin To Net: NetName=+5V_1 Pin=P12-3
+Added Pin To Net: NetName=GND Pin=P13-2
+Added Pin To Net: NetName=+5V_1 Pin=P13-3
+Added Pin To Net: NetName=GND Pin=P14-2
+Added Pin To Net: NetName=+3V3_1 Pin=P14-3
+Added Pin To Net: NetName=GND Pin=P15-2
+Added Pin To Net: NetName=+5V_1 Pin=P15-3
+Added Pin To Net: NetName=GND Pin=P16-2
+Added Pin To Net: NetName=+5V_1 Pin=P16-3
+Added Pin To Net: NetName=GND Pin=P17-2
+Added Pin To Net: NetName=+5V_1 Pin=P17-3
+Added Pin To Net: NetName=GND Pin=P18-2
+Added Pin To Net: NetName=+5V_1 Pin=P18-3
+Added Pin To Net: NetName=GND Pin=P19-2
+Added Pin To Net: NetName=+5V_1 Pin=P19-3
+Added Pin To Net: NetName=GND Pin=P20-2
+Added Pin To Net: NetName=+5V_1 Pin=P20-3
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=GND Pin=R42-1
+Added Pin To Net: NetName=GND Pin=R45-1
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=NetP12_1 Pin=P12-1
+Added Pin To Net: NetName=NetP12_1 Pin=R19-2
+Added Net: Name=NetP12_1
+Added Pin To Net: NetName=NetP13_1 Pin=P13-1
+Added Pin To Net: NetName=NetP13_1 Pin=R32-2
+Added Net: Name=NetP13_1
+Added Pin To Net: NetName=NetP14_1 Pin=P14-1
+Added Net: Name=NetP14_1
+Added Pin To Net: NetName=NetP15_1 Pin=P15-1
+Added Pin To Net: NetName=NetP15_1 Pin=R35-2
+Added Net: Name=NetP15_1
+Added Pin To Net: NetName=NetP16_1 Pin=P16-1
+Added Pin To Net: NetName=NetP16_1 Pin=R36-2
+Added Net: Name=NetP16_1
+Added Pin To Net: NetName=NetP17_1 Pin=P17-1
+Added Pin To Net: NetName=NetP17_1 Pin=R39-2
+Added Net: Name=NetP17_1
+Added Pin To Net: NetName=NetP18_1 Pin=P18-1
+Added Pin To Net: NetName=NetP18_1 Pin=R40-2
+Added Net: Name=NetP18_1
+Added Pin To Net: NetName=NetP19_1 Pin=P19-1
+Added Pin To Net: NetName=NetP19_1 Pin=R43-2
+Added Net: Name=NetP19_1
+Added Pin To Net: NetName=NetP20_1 Pin=P20-1
+Added Pin To Net: NetName=NetP20_1 Pin=R44-2
+Added Net: Name=NetP20_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=R33-2
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=NetR32_1 Pin=R34-2
+Added Net: Name=NetR32_1
+Added Pin To Net: NetName=NetR35_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_1 Pin=R37-2
+Added Net: Name=NetR35_1
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR36_1 Pin=R38-2
+Added Net: Name=NetR36_1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetR39_1 Pin=R41-2
+Added Net: Name=NetR39_1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=R42-2
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR43_1 Pin=R43-1
+Added Pin To Net: NetName=NetR43_1 Pin=R45-2
+Added Net: Name=NetR43_1
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetR44_1 Pin=R46-2
+Added Net: Name=NetR44_1
+Added Class: Name=Sensors
+Added Room: Name=Interface
+Added Room: Name=Sensors

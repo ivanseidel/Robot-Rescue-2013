@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Net*_52 Pin=*-52
+Removed Pin From Net: NetName=GND Pin=*-GND1
+Change Component Library : Designator=* Old Library=CustomLibrary.IntLib New Library=CustomLibrary.SchLib
+Added Pin To Net: NetName=Net*_52 Pin=*-DAC0
+Added Pin To Net: NetName=GND Pin=*-GND5
+Added Pin To Net: NetName=GND Pin=*-GND5
+Change Net Name : Old Net Name=Net*_52 New Net Name=Net*_DAC0
+Added Pin To Net: NetName=SD_CLK Pin=*-SCK
+Added Pin To Net: NetName=SD_CLK Pin=LCD1-36
+Added Net: Name=SD_CLK
+Added Pin To Net: NetName=SD_CS Pin=*-52
+Added Pin To Net: NetName=SD_CS Pin=LCD1-38
+Added Net: Name=SD_CS
+Added Pin To Net: NetName=SD_MISO Pin=*-MISO
+Added Net: Name=SD_MISO
+Added Pin To Net: NetName=SD_MOSI Pin=*-MOSI
+Added Net: Name=SD_MOSI

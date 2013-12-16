@@ -1,0 +1,8 @@
+Added Component: Designator=L?(LED0805)
+Added Component: Designator=R?(RES1206)
+Added Pin To Net: NetName=GND Pin=L?-2
+Added Pin To Net: NetName=NetL?_1 Pin=L?-1
+Added Pin To Net: NetName=NetL?_1 Pin=R?-1
+Added Net: Name=NetL?_1
+Added Member To Class: ClassName=Speed Controller Member=Component L? LED
+Added Member To Class: ClassName=Speed Controller Member=Component R? 1K

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Net*_9 Pin=Q1-3
+Removed Pin From Net: NetName=Net*_8 Pin=Q2-3
+Added Pin To Net: NetName=Net*_8 Pin=Q1-3
+Added Pin To Net: NetName=Net*_9 Pin=Q2-3

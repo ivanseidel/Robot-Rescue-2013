@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Rescue-MainBoard.PrjPCB]
+   Generated File[Rescue-MainBoard.GTL]
+   Generated File[Rescue-MainBoard.GBL]
+   Generated File[Rescue-MainBoard.GTO]
+   Generated File[Rescue-MainBoard.GTP]
+   Generated File[Rescue-MainBoard.GTS]
+   Generated File[Rescue-MainBoard.GBS]
+   Generated File[Rescue-MainBoard.GBO]
+   Generated File[Rescue-MainBoard.EXTREP]
+   Generated File[Rescue-MainBoard.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 20:26:40 On 23/04/2013

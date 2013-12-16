@@ -1,0 +1,40 @@
+Removed Member From Class: ClassName=Interface Member=E1
+Change Component Comment : Designator=R7 Old Comment=1K New Comment=2K2
+Change Component Comment : Designator=R11 Old Comment=1K New Comment=2K2
+Change Component Comment : Designator=R33 Old Comment=1K New Comment=2K2
+Change Component Comment : Designator=R35 Old Comment=1K New Comment=2K2
+Change Component Comment : Designator=R37 Old Comment=1K New Comment=2K2
+Change Component Comment : Designator=R39 Old Comment=1K New Comment=2K2
+Change Component Comment : Designator=R41 Old Comment=1K New Comment=2K2
+Change Component Comment : Designator=R43 Old Comment=1K New Comment=2K2
+Change Component Comment : Designator=R1 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R2 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R6 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R9 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R10 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R20 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R21 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R32 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R34 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R36 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R38 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R40 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R42 Old Comment=1K New Comment=10K
+Change Component Comment : Designator=R8 Old Comment=1K New Comment=330R
+Change Component Comment : Designator=R13 Old Comment=1K New Comment=330R
+Change Component Comment : Designator=R14 Old Comment=1K New Comment=330R
+Change Component Comment : Designator=R15 Old Comment=1K New Comment=330R
+Change Component Comment : Designator=R16 Old Comment=1K New Comment=330R
+Change Component Comment : Designator=R17 Old Comment=1K New Comment=330R
+Change Component Comment : Designator=R18 Old Comment=1K New Comment=330R
+Change Component Comment : Designator=R19 Old Comment=1K New Comment=330R
+Change Component Kind : Designator=MBED.TX Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=MBED.RX Old Kind=Standard New Kind=Standard (No BOM)
+Added Component: Designator=P25(B2B-PH-K)
+Added Pin To Net: NetName=NetP25_1 Pin=P25-1
+Added Pin To Net: NetName=NetP25_1 Pin=P25-2
+Added Pin To Net: NetName=NetP25_1 Pin=R4-1
+Added Pin To Net: NetName=NetP25_1 Pin=U2-2
+Added Pin To Net: NetName=NetP25_1 Pin=U2-6
+Added Net: Name=NetP25_1
+Added Member To Class: ClassName=Interface Member=Component P25 JST PH 2

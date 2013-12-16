@@ -1,0 +1,6 @@
+Added Component: Designator=RESET(PUSH-BUTTON 5,2X1,6MM)
+Added Component: Designator=SW1(PUSH-BUTTON 5,2X1,6MM)
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=SW1-2
+Added Member To Class: ClassName=Core Member=Component RESET PUSH BUTTON
+Added Member To Class: ClassName=Bluetooth Member=Component SW1 PUSH BUTTON

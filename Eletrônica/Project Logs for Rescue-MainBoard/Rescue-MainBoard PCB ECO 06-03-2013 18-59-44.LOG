@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=P14 NewDesignator=P20
+Change Component Designator: OldDesignator=P15 NewDesignator=P14
+Change Component Designator: OldDesignator=P16 NewDesignator=P15
+Change Component Designator: OldDesignator=P17 NewDesignator=P16
+Change Component Designator: OldDesignator=P18 NewDesignator=P17
+Change Component Designator: OldDesignator=P19 NewDesignator=P18
+Change Component Designator: OldDesignator=P20 NewDesignator=P19
+Change Net Name : Old Net Name=NetP14_1 New Net Name=NetP20_1
+Change Net Name : Old Net Name=NetP15_1 New Net Name=NetP14_1
+Change Net Name : Old Net Name=NetP16_1 New Net Name=NetP15_1
+Change Net Name : Old Net Name=NetP17_1 New Net Name=NetP16_1
+Change Net Name : Old Net Name=NetP18_1 New Net Name=NetP17_1
+Change Net Name : Old Net Name=NetP19_1 New Net Name=NetP18_1
+Change Net Name : Old Net Name=NetP20_1 New Net Name=NetP19_1

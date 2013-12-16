@@ -1,0 +1,7 @@
+Added Component: Designator=P4(TRIMPOT-3296W)
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=+5V_1 Pin=P4-3
+Added Member To Class: ClassName=Interface Member=Component P4 1K
+Added Room: Name=Interface
+Added Room: Name=Sensors

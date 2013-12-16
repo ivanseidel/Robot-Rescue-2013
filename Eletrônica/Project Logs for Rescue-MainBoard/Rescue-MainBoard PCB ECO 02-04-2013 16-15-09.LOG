@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=Net*_32 Pin=*-32
+Added Pin To Net: NetName=Net*_32 Pin=U1-12
+Added Net: Name=Net*_32

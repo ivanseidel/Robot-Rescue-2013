@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Temperatura+Sensor Luz.PrjPCB]
+   Generated File[Temperatura+Sensor Luz.TXT]
+   Generated File[Temperatura+Sensor Luz.DRL]
+   Generated File[Temperatura+Sensor Luz.LDP]
+   Generated File[Temperatura+Sensor Luz.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 19:40:34 On 02/04/2013

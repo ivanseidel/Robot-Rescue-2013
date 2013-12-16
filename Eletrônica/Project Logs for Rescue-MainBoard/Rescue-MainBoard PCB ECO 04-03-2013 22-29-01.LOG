@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=M2_DIR2 Pin=M1-7
+Removed Pin From Net: NetName=M2_DIR1 Pin=M1-8
+Removed Pin From Net: NetName=M3_DIR1 Pin=M1-19
+Removed Pin From Net: NetName=M3_DIR2 Pin=M1-20
+Added Pin To Net: NetName=M3_DIR1 Pin=M1-7
+Added Pin To Net: NetName=M3_DIR2 Pin=M1-8
+Added Pin To Net: NetName=M2_DIR2 Pin=M1-19
+Added Pin To Net: NetName=M2_DIR1 Pin=M1-20

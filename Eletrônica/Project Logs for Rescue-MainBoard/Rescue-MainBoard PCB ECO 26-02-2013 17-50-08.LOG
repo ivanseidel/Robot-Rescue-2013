@@ -1,0 +1,25 @@
+Added Component: Designator=P4(TRIMPOT-3296W)
+Added Component: Designator=U1(LGA-24)
+Added Component: Designator=Y1(OSC-2-PIN)
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=+5V_1 Pin=P4-3
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3V3_1 Pin=U1-3
+Added Pin To Net: NetName=+3V3_1 Pin=U1-8
+Added Pin To Net: NetName=NetP1_2 Pin=U1-9
+Added Pin To Net: NetName=NetC1_2 Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Pin To Net: NetName=+3V3_1 Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=NetC2_2 Pin=U1-20
+Added Pin To Net: NetName=NetU1_23 Pin=U1-23
+Added Pin To Net: NetName=NetU1_24 Pin=U1-24
+Added Pin To Net: NetName=NetC9_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC10_1 Pin=Y1-2
+Added Member To Class: ClassName=Interface Member=Component P4 1K
+Added Member To Class: ClassName=IMU Member=Component U1 MPU-9150
+Added Member To Class: ClassName=Temperature Member=Component Y1 32.768Khz
