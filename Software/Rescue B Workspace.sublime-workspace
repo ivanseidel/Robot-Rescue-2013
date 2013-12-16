@@ -1,0 +1,2509 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"yp",
+				"yprViews"
+			],
+			[
+				"set",
+				"setAngle"
+			],
+			[
+				"for",
+				"forceRender"
+			],
+			[
+				"ze",
+				"zeroX"
+			],
+			[
+				"z",
+				"zeroX"
+			],
+			[
+				"_",
+				"_inPin"
+			],
+			[
+				"an",
+				"an0"
+			],
+			[
+				"time",
+				"timeMix"
+			],
+			[
+				"star",
+				"startTimeMixing"
+			],
+			[
+				"sho",
+				"shouldStop"
+			],
+			[
+				"int",
+				"integral"
+			],
+			[
+				"prop",
+				"propC"
+			],
+			[
+				"raw",
+				"rawC"
+			],
+			[
+				"rw",
+				"rawM"
+			],
+			[
+				"IR_",
+				"IR_MIN_INTEGRAL"
+			],
+			[
+				"IR_M",
+				"IR_MIN_REPEATS"
+			],
+			[
+				"selec",
+				"selectDigitalChannel"
+			],
+			[
+				"delay",
+				"delayMicroseconds"
+			],
+			[
+				"analo",
+				"analogRead"
+			],
+			[
+				"PORT",
+				"PORTD"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"Ard",
+				"ArduinOS"
+			],
+			[
+				"bar",
+				"barsTitle"
+			],
+			[
+				"my",
+				"myTCH"
+			],
+			[
+				"rend",
+				"renderNow"
+			],
+			[
+				"Activi",
+				"Activity"
+			],
+			[
+				"View",
+				"ViewGroup"
+			],
+			[
+				"root",
+				"rootView"
+			],
+			[
+				"ena",
+				"enableTouch"
+			],
+			[
+				"ArdUI",
+				"ArduinOS"
+			],
+			[
+				"_re",
+				"_requestTouch"
+			],
+			[
+				"curr",
+				"currRootView"
+			],
+			[
+				"lastV",
+				"lastRootViewID"
+			],
+			[
+				"touchTi",
+				"touchTimerPeriod"
+			],
+			[
+				"tou",
+				"touchInterrupt"
+			],
+			[
+				"touch",
+				"touchMode"
+			],
+			[
+				"IN",
+				"INTERRUPT_TIMER"
+			],
+			[
+				"Tou",
+				"TouchTriggerMode"
+			],
+			[
+				"i",
+				"inc	#include \"…\""
+			],
+			[
+				"_r",
+				"_renX"
+			],
+			[
+				"_x",
+				"_x"
+			],
+			[
+				"y",
+				"yHit"
+			],
+			[
+				"act",
+				"activities"
+			],
+			[
+				"Lig",
+				"Light1"
+			],
+			[
+				"read",
+				"readValue"
+			],
+			[
+				"Li",
+				"Light"
+			],
+			[
+				"lig",
+				"light1"
+			],
+			[
+				"light1",
+				"light1Tag"
+			],
+			[
+				"turn",
+				"turnOn"
+			],
+			[
+				"thr",
+				"_threshold"
+			],
+			[
+				"th",
+				"_threshold"
+			],
+			[
+				"li",
+				"lightPin"
+			],
+			[
+				"float",
+				"floatToString"
+			],
+			[
+				"long",
+				"longString"
+			],
+			[
+				"devi",
+				"deviation"
+			],
+			[
+				"zero",
+				"zeroY"
+			],
+			[
+				"draw",
+				"drawVectors"
+			],
+			[
+				"VECTO",
+				"VECTOR_PRESCALE"
+			],
+			[
+				"VEC",
+				"VECTOR_PRESCALE"
+			],
+			[
+				"CMD",
+				"CMD_SIZE"
+			],
+			[
+				"Sy",
+				"SystemThreads"
+			],
+			[
+				"wor",
+				"workStart"
+			],
+			[
+				"las",
+				"lastRun"
+			],
+			[
+				"work",
+				"workDone"
+			],
+			[
+				"DISABLE",
+				"DISABLE_VICTIM"
+			],
+			[
+				"DEV",
+				"DEVIATION_PRESCALE"
+			],
+			[
+				"CMD_SET_",
+				"CMD_SET_DEFAULT_VALUES"
+			],
+			[
+				"DEFAU",
+				"DEFAULT_MIN_DEVIATION"
+			],
+			[
+				"ADR",
+				"ADR_MIN_DEVIATION"
+			],
+			[
+				"wri",
+				"writeBytes"
+			],
+			[
+				"mp",
+				"mpuIntStatus"
+			],
+			[
+				"_y",
+				"_y"
+			],
+			[
+				"k",
+				"kXSpeed"
+			],
+			[
+				"_ren",
+				"_renY"
+			],
+			[
+				"printN",
+				"printNumI"
+			],
+			[
+				"_t",
+				"_threadInterval"
+			],
+			[
+				"in",
+				"integral"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"AC",
+				"ACTION_MOVE"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"del",
+				"delayMicroseconds"
+			],
+			[
+				"rende",
+				"renderNow"
+			],
+			[
+				"prog",
+				"progressPx"
+			],
+			[
+				"add",
+				"addView"
+			],
+			[
+				"Prog",
+				"ProgressBar"
+			],
+			[
+				"anal",
+				"analog1"
+			],
+			[
+				"Sens",
+				"SensorThread"
+			],
+			[
+				"bli",
+				"blinkLedThread"
+			],
+			[
+				"hi",
+				"hisThread"
+			],
+			[
+				"led",
+				"ledPin"
+			],
+			[
+				"bl",
+				"blinkLedThread"
+			],
+			[
+				"Blin",
+				"blinkLedThread"
+			],
+			[
+				"Thread",
+				"ThreadController"
+			],
+			[
+				"cTe",
+				"cText"
+			],
+			[
+				"cb",
+				"cBgHit"
+			],
+			[
+				"cB",
+				"cBgHit"
+			],
+			[
+				"cal",
+				"callOnClick"
+			],
+			[
+				"_onC",
+				"_onChange"
+			],
+			[
+				"Act",
+				"Activity"
+			],
+			[
+				"_on",
+				"_onLongPress"
+			],
+			[
+				"MENU",
+				"MENU_SPACE"
+			],
+			[
+				"MEN",
+				"MENU_SPACE"
+			],
+			[
+				"ME",
+				"MENU_HEIGHT"
+			],
+			[
+				"Acti",
+				"ActivityName"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"DISA",
+				"DISABLE_ZYGOTE"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"get",
+				"getNode"
+			],
+			[
+				"Lin",
+				"LinkedList"
+			],
+			[
+				"UT",
+				"UTouch"
+			],
+			[
+				"Main",
+				"MainActivity"
+			],
+			[
+				"on",
+				"onTouch"
+			],
+			[
+				"ACTIO",
+				"ACTION_HOVER_EXIT"
+			],
+			[
+				"cur",
+				"currView"
+			],
+			[
+				"cT",
+				"cText"
+			],
+			[
+				"cTex",
+				"cTextHit"
+			],
+			[
+				"is",
+				"_isPressing"
+			],
+			[
+				"DEF_c",
+				"DEF_cText"
+			],
+			[
+				"inc",
+				"inc	#include \"…\""
+			],
+			[
+				"hor",
+				"horzout"
+			],
+			[
+				"pin",
+				"pinMode"
+			],
+			[
+				"vert",
+				"vert_value_out"
+			],
+			[
+				"run",
+				"run_function"
+			],
+			[
+				"volun",
+				"volunteer-iaf-form"
+			],
+			[
+				"voluntee",
+				"volunteer-iaf-show"
+			],
+			[
+				"Vo",
+				"Volunteer"
+			],
+			[
+				"vol",
+				"volunteer"
+			],
+			[
+				"Das",
+				"Dashboard_Events"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"s s php",
+				"Set Syntax: PHP"
+			],
+			[
+				"cake",
+				"Set Syntax: CakePHP (HTML)"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bootstra",
+				"Snippet: Bootstrap breadcrumb"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indenta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"cakep",
+				"Set Syntax: CakePHP (HTML)"
+			],
+			[
+				"aaa",
+				"z:AAAPackageDev: New Commands File"
+			],
+			[
+				"package",
+				"z:AAAPackageDev: New Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"new f",
+				"File: New View into File"
+			],
+			[
+				"ca",
+				"Set Syntax: CakePHP (HTML)"
+			],
+			[
+				"cakephp",
+				"Set Syntax: CakePHP (HTML)"
+			],
+			[
+				"set s cak",
+				"Set Syntax: CakePHP (HTML)"
+			],
+			[
+				"cakeph",
+				"Set Syntax: CakePHP (HTML)"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 336.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/View.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/ViewGroup.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/ArdUITypes.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/LinearLayout.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/RescueB - Holanda/Software/RescueB_v01/Robot.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/RescueB - Holanda/Software/RescueB_v01/TestIMUActivity.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/Graphics.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/RescueB - Holanda/Software/RescueB_v01/RescueB_v01.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/RescueB - Holanda/Software/RescueB_v01/TestVictimActivity.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/DrawableLine.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/TextView.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/AngleView.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/ProgressBar.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Midia/Camisetas/chs2.png",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/RescueB - Holanda/Software/RescueB_v01/MainActivity.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/VictimChecker.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/DueTimer/DueTimer.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/sensors/SharpMedium.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/sensors/AnalogIn.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/sensors/DistanceInterface.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR01.630/DistanceSensor/DistanceGP2Y0A41SK.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/SandBox/SandBox.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/sensors/SharpShort.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/DigitalOut.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR28.999/DistanceSensor/AnalogDistanceSensor.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR27.661/DistanceSensor/DistanceGP2Y0A21YK.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR00.646/DistanceSensor/DistanceGP2Y0A21YK.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/sensors/SharpMedium",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/Util.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR00.021/DistanceGP2Y0A21YK/DistanceGP2Y0A21YK.cpp",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR08.609/DistanceGP2Y0A21YK/DistanceGP2Y0A21YK_LUTs.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR00.989/DistanceSensor/DistanceGP2Y0A41SK.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/AnalogIn.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/sensors/DistanceInterface",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Misturador/Misturador.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/DueTimer/README.textile",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Software/Soccer_v01/MainActivity.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Software/Soccer_v01/Config.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Software/Soccer_v01/Robot.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Software/Soccer_v01/Soccer_v01.ino",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/system/CMSIS/Device/ATMEL/sam3xa/include/sam3x8h.h",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/system/CMSIS/Device/ATMEL/sam3s/source/gcc_atmel/startup_sam3s.c",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/system/CMSIS/Device/ATMEL/sam3xa/include/sam3x4e.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/TimerServor/TimerServor.ino",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/libraries/Servo/Servo.h",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/system/CMSIS/Device/ATMEL/sam3u/source/iar/startup_sam3u.c",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/libraries/DueTimer/examples/SimpleTimer/SimpleTimer.pde",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/cores/arduino/cortex_handlers.c",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/system/CMSIS/Device/ATMEL/sam3n/source/as_gcc/startup_sam3n.c",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/system/CMSIS/Device/ATMEL/sam3xa/source/iar/startup_sam3xa.c",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/variants/arduino_due_x/libsam_sam3x8e_gcc_rel.a.txt",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/system/CMSIS/Device/ATMEL/sam3xa/include/sam3x8e.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Software/Soccer_v01/TestIMUActivity.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Software/Test/Test.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/RescueB - Holanda/Software/RescueB_v01/Config.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Software/Soccer_v01/Soccer_v01.inp",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR00.659/FRT_OpenSourceProject_code/OpenSource.ino",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DI00.725/OpenSource.ino",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR05.326/TimerOne.cpp",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR05.086/TimerOne.h",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/sam/libraries/Servo/Servo.cpp",
+		"/C/Users/Ivan/Desktop/arduino-1.5.1r2/hardware/arduino/avr/libraries/Servo/Servo.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/IMUSensor.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/Utilities.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/SeekBar.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/RescueB - Holanda/Software/RescueB_v01/TestSensorsActivity.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/ArdUI.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/ViewGroup.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/ArdUI.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/View.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/CompoundButton.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR04.845/Arduino/libraries/DUEGUI/DUEGUI.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/JPEGCamera/JPEGCamera.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/JPEGCamera/JPEGCamera.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/JPEGCamera/examples/JPEG_Sample/JPEG_Sample.pde",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR01.443/picojpeg.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR54.630/jpg2tga/Jpg2tga.cpp",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR56.680/jpg2tga/stb_image.c",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR01.549/picojpeg.c",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR20.145/Arduino/libraries/DUEGUI/DUEGUI.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR26.100/Arduino/libraries/DUEGUI/DUEGUI.cpp",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR00.873/Arduino/DueGUI_demo_02/DueGUI_demo_02.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/ActivityManager.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/examples/SimpleViews/SimpleViews.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/ArduinOS.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/ArduinOS.h",
+		"/C/Users/Ivan/Downloads/MainActivity.h.swp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/CheckBox.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/Button.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/examples/SimpleViews/SimpleView.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/views/CheckboxView.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/Activity.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/MPU9150/dmpMPU9150.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/Activity.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/ActivityManager.h",
+		"/C/Users/Ivan/Dropbox/Trabalhos/App Belge/midia/lista-cases.txt",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2012/RescueB - México/TODO.txt",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2012/RescueB - México/COMPONENTES_01.txt",
+		"/C/Users/Ivan/Dropbox/Trabalhos/App Belge/midia/lista-tecnologias.txt",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/Soccer - Holanda/Eletrônica/Project Outputs for Soccer A/Status Report.Txt",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DI01.529/README.md",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DI00.157/RELEASING.md",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DI02.225/README.md",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArdUI/Graphics.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/ArduinOSTypes.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/2013/RescueB - Holanda/Software/TemperatureReader/TemperatureReader.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/MPU6050_DMP6/MPU6050_DMP6.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/MPU9150/MPU9150.cpp",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/View.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/views/ProgressBar.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/Utilities/AnalogSensor.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinoThread/examples/SensorThread/SensorThread.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/views/TextView.h",
+		"/E/3269011-002001_3046335.lic",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/views/CheckboxView.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/views/Button.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/ArduinOS/views/ButtonView.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/MPU9150/initialization.txt",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/I2CDev/I2Cdev.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/eMPL/inv_mpu.c",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/eMPL/inv_mpu_dmp_motion_driver.c",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/MotionApps/MotionApps.ino",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/eMPL/inv_mpu.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR21.026/MotionFit_With_eMPL511_Release/core/driver/eMPL/inv_gyro_dmp_android.c",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR20.126/MotionFit_With_eMPL511_Release/core/driver/eMPL/dmpmap.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR17.312/MotionFit_With_eMPL511_Release/core/driver/eMPL/dmpmap.h",
+		"/C/Users/Ivan/AppData/Local/Temp/Rar$DR16.958/MotionFit_With_eMPL511_Release/core/driver/eMPL/dmpKey.h",
+		"/C/Users/Ivan/Dropbox/Emerotecos/Pesquisas/Libraries/MPU9150/MPU9150.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Ivan\\Desktop\\arduino-1.5.1r2\\hardware\\arduino\\sam",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\2013\\RescueB - Holanda\\Software\\RescueB_v01",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\ArdUI",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\2013\\RescueB - Holanda\\Software",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\ArdUI",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\ArduinOS",
+			"C:\\Users\\Ivan\\Desktop\\arduino-1.5.1r2",
+			"C:\\Users\\Ivan\\AppData\\Roaming\\Sublime Text 2\\Packages\\Arduino-like IDE",
+			"C:\\Users\\Ivan\\Desktop\\arduino-1.5.1r2",
+			"C:\\Users\\Ivan\\Desktop\\arduino-1.5.1r2\\hardware\\arduino\\sam",
+			"C:\\Users\\Ivan\\Desktop\\arduino-1.5.1r2\\hardware\\arduino\\sam\\cores\\arduino",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\ArduinOS,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\DueTimer,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\Utilities,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\MLX90614,,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\MoveController,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\2013\\RescueB - Holanda\\Software\\RescueB_v01,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\2013\\RescueB - Holanda\\Software\\TemperatureReader",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\ArduinOS,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\DueTimer,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\Utilities,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\MLX90614,,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\MoveController,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\2013\\RescueB - Holanda\\Software\\RescueB_v01,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\2013\\RescueB - Holanda\\Software\\TemperatureReader,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\2013\\RescueB - Holanda\\Software\\IMUTest",
+			"C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\ArduinOS,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\DueTimer,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\Utilities,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\MLX90614,,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\Pesquisas\\Libraries\\MoveController,C:\\Users\\Ivan\\Dropbox\\Emerotecos\\2013\\RescueB - Holanda\\Software",
+			"C:\\Users\\Ivan\\AppData\\Roaming\\Sublime Text 2\\Packages\\Stino-master",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carro",
+			"acelerar2",
+			"acelerar(1.0);\n	printf(\"Aceleracao: %d\", speed);",
+			"_title",
+			"preLoader",
+			"(10",
+			"HIGH",
+			"DeviceVectors",
+			"TC7_Handler",
+			"zygote.",
+			"zygote",
+			"colors",
+			"alive",
+			"^(.*)$",
+			"zygote",
+			"debug",
+			"ArduinOS",
+			"ArduinOS::LCD",
+			"LCD",
+			"ArduinOS",
+			"ActionEvent",
+			"<string name=",
+			"<string",
+			" - ",
+			"	",
+			"< -- ",
+			"</string>",
+			"<string name=\"",
+			"<string-array",
+			"<string-array ",
+			"\">\n	",
+			"/string>",
+			"</string>",
+			"*",
+			" - ",
+			"*",
+			"$",
+			" - ",
+			"	",
+			"<string",
+			"< --",
+			"onTouchHandler",
+			"int",
+			" int",
+			"int",
+			"ArduinOS::LCD",
+			"64",
+			"VECTOR_PRESCALE\n.",
+			"VECTOR_PRESCALE\nVECTOR_PRESCALE",
+			"VECTOR_PRESCALE",
+			"USART.",
+			"USART->",
+			"USART.",
+			"else if(c == CMD_SET_DEFAULT_VALUES){\n            Serial.println(\"$ ResetDef\");\n            setDefaultValues();\n        }",
+			"ADR_MIN_DEVIATION",
+			"0x..",
+			"0x00",
+			"0x",
+			"0x..",
+			"0x32",
+			"0x00",
+			"writeMemoryBlock",
+			"memory",
+			"mpu_configure_fifo",
+			"mpu_init",
+			"initi",
+			"dmp_in",
+			"dmp_init",
+			"dmp_ini",
+			"log_i(\"",
+			"log_i(",
+			"log_i",
+			"log_i(",
+			"log_i",
+			"log_e",
+			"get_ms",
+			"int_param_s",
+			"self",
+			"offset",
+			"\\n\\n",
+			"\n",
+			"Wire1",
+			"FIFO",
+			"getFIFOC",
+			"getMotion9",
+			"dmpGetFIFORate",
+			"getdmp",
+			"selftest",
+			"SELF TEST OK",
+			"test",
+			"self",
+			"getNewSerialPort",
+			"No device found on",
+			"No device found on COM47\n",
+			"Error while uploading",
+			"-v",
+			"bossac",
+			"sam-ba",
+			"CPU reset",
+			"pages)",
+			"pages",
+			"M_PI",
+			"IMU",
+			"LCD",
+			"IMU",
+			"delay(",
+			"TimeTick_Increment",
+			"SysTick_Handler",
+			"_x",
+			"()",
+			"cRectFill",
+			"^(.*)$",
+			"NULL",
+			"color",
+			"monitor",
+			"genBuildFiles",
+			"no main sketch",
+			"digitalWrite",
+			"uploadbinary",
+			"upload_binary",
+			"utf",
+			"$Dashboard_Events_Regional",
+			"team[",
+			" ",
+			"<li>Ap ê n d i c e A : A d m i n i s t r a ç ã o F i n a n c e i r a</li>\n	<li>Ap ê n d i c e B : M o d e l o d e P r o g r a m a ç ã o</li>\n	<li>Ap ê n d i c e C : A t e n ç ã o d a M í d i a</li>",
+			"data",
+			"loadMembers",
+			".member-id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ArdUI::LCD",
+			"-",
+			"long",
+			"USART->",
+			"USART.",
+			"USART->",
+			"0xFF",
+			"0x00",
+			"0x30",
+			"0xFF",
+			"//log_e(\"",
+			"//log_i(\"",
+			"log_i(\"\n//log_i(\"",
+			"//log_i(",
+			"//log_i",
+			"\\n",
+			"",
+			"NIL",
+			"0",
+			"clubefirst/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Compilation_LinkedList_63000":
+	{
+		"height": 264.0
+	},
+	"output.Compilation_Misturador_136000":
+	{
+		"height": 163.0
+	},
+	"output.Compilation_Misturador_656000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Misturador_778000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Misturador_966000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_10000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_103000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_125000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_137000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_153000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_156000":
+	{
+		"height": 169.0
+	},
+	"output.Compilation_RescueB_v01_175000":
+	{
+		"height": 279.0
+	},
+	"output.Compilation_RescueB_v01_189000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_208000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_230000":
+	{
+		"height": 230.0
+	},
+	"output.Compilation_RescueB_v01_241000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_258000":
+	{
+		"height": 124.0
+	},
+	"output.Compilation_RescueB_v01_259000":
+	{
+		"height": 173.0
+	},
+	"output.Compilation_RescueB_v01_270000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_274000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_277000":
+	{
+		"height": 303.0
+	},
+	"output.Compilation_RescueB_v01_321000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_326000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_33000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_346000":
+	{
+		"height": 201.0
+	},
+	"output.Compilation_RescueB_v01_377000":
+	{
+		"height": 260.0
+	},
+	"output.Compilation_RescueB_v01_380000":
+	{
+		"height": 124.0
+	},
+	"output.Compilation_RescueB_v01_407000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_408000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_414000":
+	{
+		"height": 343.0
+	},
+	"output.Compilation_RescueB_v01_416000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_421000":
+	{
+		"height": 208.0
+	},
+	"output.Compilation_RescueB_v01_424000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_44000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_452000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_467000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_490000":
+	{
+		"height": 178.0
+	},
+	"output.Compilation_RescueB_v01_494000":
+	{
+		"height": 194.0
+	},
+	"output.Compilation_RescueB_v01_50000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_516000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_54000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_566000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_584000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_602000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_606000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_655000":
+	{
+		"height": 231.0
+	},
+	"output.Compilation_RescueB_v01_683000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_690000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_695000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_714000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_715000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_734000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_766000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_776000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_785000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_79000":
+	{
+		"height": 348.0
+	},
+	"output.Compilation_RescueB_v01_798000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_818000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_839000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_850000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_860000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_874000":
+	{
+		"height": 221.0
+	},
+	"output.Compilation_RescueB_v01_876000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_901000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_931000":
+	{
+		"height": 204.0
+	},
+	"output.Compilation_RescueB_v01_933000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_950000":
+	{
+		"height": 327.0
+	},
+	"output.Compilation_RescueB_v01_958000":
+	{
+		"height": 124.0
+	},
+	"output.Compilation_RescueB_v01_960000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_RescueB_v01_971000":
+	{
+		"height": 258.0
+	},
+	"output.Compilation_RescueB_v01_987000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_SandBox_462000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Soccer_v01_881000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_116000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_117000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_127000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_134000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_145000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_204000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_218000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_237000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_26000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_261000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_272000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_278000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_280000":
+	{
+		"height": 202.0
+	},
+	"output.Compilation_TemperatureReader_301000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_307000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_310000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_348000":
+	{
+		"height": 155.0
+	},
+	"output.Compilation_TemperatureReader_371000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_377000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_401000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_440000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_465000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_467000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_468000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_470000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_487000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_491000":
+	{
+		"height": 220.0
+	},
+	"output.Compilation_TemperatureReader_496000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_514000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_516000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_522000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_555000":
+	{
+		"height": 265.0
+	},
+	"output.Compilation_TemperatureReader_573000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_588000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_592000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_600000":
+	{
+		"height": 219.0
+	},
+	"output.Compilation_TemperatureReader_610000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_624000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_639000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_651000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_655000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_662000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_665000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_672000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_677000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_7000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_712000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_720000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_726000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_736000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_746000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_776000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_779000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_806000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_81000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_824000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_846000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_848000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_862000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_89000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_918000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_943000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_962000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_965000":
+	{
+		"height": 186.0
+	},
+	"output.Compilation_TemperatureReader_995000":
+	{
+		"height": 203.0
+	},
+	"output.Compilation_TemperatureReader_998000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_TemperatureReader_999000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_109000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_13000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_141000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_150000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_156000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_173000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_190000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_191000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_195000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_198000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_209000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_241000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_254000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_262000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_285000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_304000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_319000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_320000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_322000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_334000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_346000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_35000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_350000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_351000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_362000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_383000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_389000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_396000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_398000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_408000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_414000":
+	{
+		"height": 200.0
+	},
+	"output.Compilation_Test_415000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_422000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_449000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_465000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_468000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_473000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_477000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_491000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_496000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_525000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_526000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_551000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_567000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_568000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_591000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_596000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_605000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_609000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_687000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_711000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_717000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_720000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_737000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_742000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_746000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_780000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_796000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_797000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_80000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_814000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_818000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_853000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_855000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_874000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_875000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_89000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_892000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_906000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_930000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_964000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_965000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_969000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_973000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_989000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_990000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_993000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Test_997000":
+	{
+		"height": 118.0
+	},
+	"output.Compilation_Utilities_540000":
+	{
+		"height": 118.0
+	},
+	"output.arduino_panel":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sand",
+				"Pesquisas/SandBox/SandBox.ino"
+			],
+			[
+				"mist",
+				"Pesquisas/Misturador/Misturador.ino"
+			],
+			[
+				"duetr",
+				"Libraries/DueTimer/README.textile"
+			],
+			[
+				"docum",
+				"View/Clubefirst/documents.ctp"
+			],
+			[
+				"render",
+				"View/Admin/renderbadges.ctp"
+			],
+			[
+				"viewreg",
+				"View/Admin/csv/viewregisters.ctp"
+			],
+			[
+				"voluntreg",
+				"View/Volunteers/register.ctp"
+			],
+			[
+				"appc",
+				"Controller/AppController.php"
+			],
+			[
+				"docu",
+				"View/Clubefirst/documents.ctp"
+			],
+			[
+				"admivol",
+				"View/Admin/volunteer.ctp"
+			],
+			[
+				"admin/vol",
+				"View/Admin/volunteers.ctp"
+			],
+			[
+				"teamreg",
+				"View/Teams/register.ctp"
+			],
+			[
+				"manual",
+				"View/Clubefirst/manual.ctp"
+			],
+			[
+				"clubef",
+				"Controller/ClubefirstController.php"
+			],
+			[
+				"default",
+				"View/Layouts/default.ctp"
+			],
+			[
+				"cale",
+				"View/Dashboard/calendar.ctp"
+			],
+			[
+				"events",
+				"View/Dashboard/events.ctp"
+			],
+			[
+				"das",
+				"Controller/DashboardController.php"
+			],
+			[
+				"blog",
+				"View/Clubefirst/blog.ctp"
+			],
+			[
+				"blogp",
+				"View/Admin/blogpost.ctp"
+			],
+			[
+				"kits",
+				"View/Admin/kits.ctp"
+			],
+			[
+				"top",
+				"Model/Topic.php"
+			],
+			[
+				"topi",
+				"View/Forum/topics.ctp"
+			],
+			[
+				"re",
+				"Model/Reply.php"
+			],
+			[
+				"forumc",
+				"Controller/ForumController.php"
+			],
+			[
+				"for",
+				"Model/Forum.php"
+			],
+			[
+				"categ",
+				"View/Forum/category.ctp"
+			],
+			[
+				"catego",
+				"Model/Category.php"
+			],
+			[
+				"forum/in",
+				"View/Forum/index.ctp"
+			],
+			[
+				"teamregist",
+				"View/Teams/register.ctp"
+			],
+			[
+				"teamsco",
+				"Controller/TeamsController.php"
+			],
+			[
+				"dash",
+				"Controller/DashboardController.php"
+			],
+			[
+				"pagse",
+				"Controller/PagseguroController.php"
+			],
+			[
+				"event",
+				"View/Dashboard/event.ctp"
+			],
+			[
+				"blogpos",
+				"View/Admin/blogpost.ctp"
+			],
+			[
+				"register.ctp",
+				"View/Dashboard/registers.ctp"
+			],
+			[
+				"teamregis",
+				"View/Teams/register.ctp"
+			],
+			[
+				"blogpo",
+				"View/Admin/blogpost.ctp"
+			],
+			[
+				"editev",
+				"View/Admin/editevent.ctp"
+			],
+			[
+				"teamsc",
+				"Controller/TeamsController.php"
+			],
+			[
+				"admic",
+				"Controller/AdminController.php"
+			],
+			[
+				"viewre",
+				"View/Admin/viewregisters.ctp"
+			],
+			[
+				"pagsegcontr",
+				"Controller/PagseguroController.php"
+			],
+			[
+				"join.ctp",
+				"View/Dashboard/join.ctp"
+			],
+			[
+				"main.c",
+				"webroot/css/main.css"
+			],
+			[
+				"forum/crea",
+				"View/Forum/create.ctp"
+			],
+			[
+				"topic",
+				"View/Forum/topic.ctp"
+			],
+			[
+				"adminc",
+				"Controller/AdminController.php"
+			],
+			[
+				"admi",
+				"View/Admin/viewregisters.ctp"
+			],
+			[
+				"kit.c",
+				"View/Dashboard/kit.ctp"
+			],
+			[
+				"event.c",
+				"View/Dashboard/event.ctp"
+			],
+			[
+				"event.ct",
+				"View/Dashboard/event.ctp"
+			],
+			[
+				"viewki",
+				"View/Admin/viewkit.ctp"
+			],
+			[
+				"viewteam",
+				"View/Admin/csv/viewteams.ctp"
+			],
+			[
+				"viewte",
+				"View/Admin/viewteam.ctp"
+			],
+			[
+				"teamsregi",
+				"View/Teams/register.ctp"
+			],
+			[
+				"clubefirst/ind",
+				"View/Clubefirst/index.ctp"
+			],
+			[
+				"clube",
+				"Controller/ClubefirstController.php"
+			],
+			[
+				"volunreg",
+				"View/Volunteers/register.ctp"
+			],
+			[
+				"club",
+				"Controller/ClubefirstController.php"
+			],
+			[
+				"viewtea",
+				"View/Admin/viewteam.ctp"
+			],
+			[
+				"topics",
+				"View/Forum/topics.ctp"
+			],
+			[
+				"dashevent",
+				"View/Dashboard/events.ctp"
+			],
+			[
+				"voluntc",
+				"Controller/VolunteersController.php"
+			],
+			[
+				"regisc",
+				"Controller/RegistersController.php"
+			],
+			[
+				"dashregis",
+				"View/Dashboard/registers.ctp"
+			],
+			[
+				"viewregist",
+				"View/Admin/viewregisters.ctp"
+			],
+			[
+				"appco",
+				"Controller/AppController.php"
+			],
+			[
+				"volunterre",
+				"View/Volunteers/register.ctp"
+			],
+			[
+				"teamregi",
+				"View/Teams/register.ctp"
+			],
+			[
+				"viewteams",
+				"View/Admin/viewteams.ctp"
+			],
+			[
+				"registers",
+				"View/Admin/viewregisters.ctp"
+			],
+			[
+				"registers.ctp",
+				"View/Dashboard/registers.ctp"
+			],
+			[
+				"pr",
+				"View/Layouts/print.ctp"
+			],
+			[
+				"print",
+				"View/Layouts/print.ctp"
+			],
+			[
+				"pri",
+				"View/Layouts/print.ctp"
+			],
+			[
+				"prin",
+				"View/Layouts/print.ctp"
+			],
+			[
+				"print.",
+				"View/Layouts/print.ctp"
+			],
+			[
+				"rendersc",
+				"View/Admin/renderschedules.ctp"
+			],
+			[
+				"voluntco",
+				"Controller/VolunteersController.php"
+			],
+			[
+				"map",
+				"View/Clubefirst/map.ctp"
+			],
+			[
+				"volureg",
+				"View/Volunteers/register.ctp"
+			],
+			[
+				"admininde",
+				"View/Admin/index.ctp"
+			],
+			[
+				"csvvolun",
+				"View/Admin/csv/volunteers.ctp"
+			],
+			[
+				"volunts",
+				"View/Admin/volunteers.ctp"
+			],
+			[
+				"vteams",
+				"View/Admin/viewteams.ctp"
+			],
+			[
+				"emails",
+				"View/Admin/emails.ctp"
+			],
+			[
+				"regist",
+				"View/Teams/register.ctp"
+			],
+			[
+				"volunt",
+				"Model/Volunteer.php"
+			],
+			[
+				"volunterc",
+				"Controller/VolunteersController.php"
+			],
+			[
+				"volunter",
+				"View/Volunteers/register.ctp"
+			],
+			[
+				"home.ct",
+				"View/Pages/home.ctp"
+			],
+			[
+				"route",
+				"Config/routes.php"
+			],
+			[
+				"forum/",
+				"View/Forum/category.ctp"
+			],
+			[
+				"clubforum",
+				"View/Clubefirst/forum.ctp"
+			],
+			[
+				"forum",
+				"View/Clubefirst/forum.ctp"
+			],
+			[
+				"faqs",
+				"View/Clubefirst/faqs.ctp"
+			],
+			[
+				"clube/",
+				"View/Clubefirst/index.ctp"
+			],
+			[
+				"teams",
+				"Controller/TeamsController.php"
+			],
+			[
+				"post",
+				"View/Admin/blogpost.ctp"
+			],
+			[
+				"subsc",
+				"View/Dashboard/subscription.ctp"
+			],
+			[
+				"def",
+				"View/Layouts/default.ctp"
+			],
+			[
+				"volure",
+				"View/Volunteers/register.ctp"
+			],
+			[
+				"user",
+				"Model/User.php"
+			],
+			[
+				"team",
+				"Model/Team.php"
+			],
+			[
+				"core",
+				"Config/core.php"
+			],
+			[
+				"datab",
+				"Config/database.php"
+			],
+			[
+				"teamco",
+				"Controller/TeamsController.php"
+			],
+			[
+				"teamsreg",
+				"View/Teams/register.ctp"
+			],
+			[
+				"teams/reg",
+				"View/Teams/register.ctp"
+			],
+			[
+				"viewkit",
+				"View/Admin/viewkit.ctp"
+			],
+			[
+				"admkit",
+				"View/Admin/viewkit.ctp"
+			],
+			[
+				"kit",
+				"View/Admin/kits.ctp"
+			],
+			[
+				"adminindex",
+				"View/Admin/index.ctp"
+			],
+			[
+				"csvema",
+				"View/Admin/csv/emails.ctp"
+			],
+			[
+				"csvemais",
+				"View/Admin/csv/emails.ctp"
+			],
+			[
+				"emailsctp",
+				"View/Admin/emails.ctp"
+			],
+			[
+				"users",
+				"Controller/UsersController.php"
+			],
+			[
+				"admin",
+				"Controller/AdminController.php"
+			],
+			[
+				"emails.c",
+				"View/Admin/emails.ctp"
+			],
+			[
+				"foru",
+				"Controller/ForumController.php"
+			],
+			[
+				"rout",
+				"Config/routes.php"
+			],
+			[
+				"clubefirs",
+				"View/Clubefirst/index.ctp"
+			],
+			[
+				"create",
+				"View/Forum/create.ctp"
+			],
+			[
+				"adm",
+				"Controller/AdminController.php"
+			],
+			[
+				"register",
+				"View/Teams/register.ctp"
+			],
+			[
+				"app",
+				"Controller/AppController.php"
+			],
+			[
+				"repl",
+				"Model/Reply.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/wamp/www/app/while1.sublime-project"
+			],
+			[
+				"p",
+				"/C/wamp/www/torneios/project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true
+}
